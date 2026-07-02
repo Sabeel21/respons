@@ -1,0 +1,1057 @@
+[
+  {
+    "idKey": "583640501130066",
+    "title": "Mortals (Funk (Slowed)) (feat. Laura Brehm)",
+    "audioType": "licensed_music",
+    "audioClusterId": "583640501130066",
+    "audioAssetId": null,
+    "musicCanonicalId": null,
+    "meta": {
+      "music_asset_info": {
+        "audio_cluster_id": "583640501130066",
+        "title": "Mortals (Funk (Slowed)) (feat. Laura Brehm)",
+        "display_artist": "Warriyo, LXNGVX",
+        "is_explicit": false
+      },
+      "clips_metadata": {
+        "music_info": {
+          "music_asset_info": {
+            "audio_cluster_id": "583640501130066",
+            "title": "Mortals (Funk (Slowed)) (feat. Laura Brehm)",
+            "display_artist": "Warriyo, LXNGVX",
+            "is_explicit": false
+          },
+          "music_consumption_info": {
+            "should_mute_audio": false,
+            "should_mute_audio_reason": "",
+            "is_trending_in_clips": false,
+            "audio_filter_infos": []
+          }
+        },
+        "original_sound_info": null,
+        "originality_info": null,
+        "is_shared_to_fb": false
+      }
+    },
+    "discoveredAt": 1782979632415,
+    "requestInfo": {
+      "url": "https://www.instagram.com/graphql/query",
+      "method": "POST",
+      "postData": "av=17841447521026029&__d=www&__user=0&__a=1&__req=c&__hs=20636.HYP%3Ainstagram_web_pkg.2.1...0&dpr=1&__ccg=GOOD&__rev=1042508450&__s=ljs5m4%3A99hnkp%3Agjaaqj&__hsi=7657839170307525145&__dyn=7xeUjG1mxu1syUbFp41twpUnwgU7SbzEdF8aUco2qwJxS0k24o0B-q1ew6ywaq0yE462mcw5Mx62G5UswoEcE7O2l0Fwqo5W1yw9O1lwlE-U2zxe2GewGw9a361qw8Xxm16wa-0oa2-azo7u3C2u2J0bS1LyUaUbGwmk0zU8oC1Iwqo5p389oed6goK10xKi2K7E5y4U158KmUhw5nyEcE4y16wAwj83KwRzk&__csr=gigX3cfMNtOhLSx9fYiB95Gy_lWfYycWV9fy7VaJlF4F9kZ49WXcHh4ydqyvivCJe9iAyEsKFGUkAj-DB8BhZlydflHimW8ycCkJ8zQJsCnlTqRTi4uj8Flx9vC9h4lJGQ5uFEKbV2aqGV8aubDG4umVokK5E9oCmimdxYyyK68W9zZdyVAaGu-gFpV4FHF0xy99oV4G7RDxS9zEkGnyojzESHDG12KZ6zo98y9x-0HU7Wm01W7w0M3w0bXfw27oe85S07yUoUYE3kU19U56dAws80U4E3iw19UwcE2QwMixh1rc0UE7fo9U460aUa0cGy8x5ysw6B0jp2OwcO0zS4FRg0imDg129804Au07zE0T60z80PJw&__hsdp=g8Q2Ikdh-kxi5GxoCSBimiHmEvJ8HyA_zAmcxp1GoPwwFxm4yq825xm8m14g88uB80yo2ZoK-2KdwZwsFE2YzohyUfo7W1swMwGgbEixS3e1gwAwwxe7Ey16g5a3OawrQ3aq0bhwg81WoO08Aw1ih03HU1k81bEa80Mi5819UaK08mBw3U820w4cCgCm8wmU0zS2i5o&__hblp=4wg87S1cxO3DzUiK9y87V0DRyoKpyqxm5WwjE451K1YwnErjUvCAz42O48twZxqq2C1eCxy2emu4oK8AwKgS4o5W1sx67Eyfx1wKxaaghwKAyE4m2i224UK4Ey16gswRwYyA361MCBU6K0pi2i0EUfqwjE1CEO0qO1TwbW04pk0FU5Pw2G82Fw9Wu0zo22xS2y22cw2REkw4Dxu4K3C3y0qem0cCwuofU4S6UmxO0Fo4Cp2pox0mE3EwiU2pU6O2i5o&__sjsp=g8Q2l5B24jb4Vi58mGp22rql9paJqx-QyKajKegiwpC5ofS&__comet_req=7&fb_dtsg=NAfwnwMVSmUdDcV-piPdtbsvFCsWgMnsVe2JPrlZnNuUO3boOkyyLwg%3A17855905060073950%3A1782876067&jazoest=26711&lsd=wUa-MqMRvdvmjVsWVCEOR9&__spin_r=1042508450&__spin_b=trunk&__spin_t=1782979623&__crn=comet.igweb.PolarisClipsTabDesktopProfiledContentRoute&fb_api_caller_class=RelayModern&fb_api_req_friendly_name=PolarisFeedTimelineRootV2Query&server_timestamps=true&variables=%7B%22after%22%3Anull%2C%22before%22%3Anull%2C%22data%22%3A%7B%22device_id%22%3A%226625B0C5-4CA9-4FEC-8DB1-AA5F7267B2DB%22%2C%22is_async_ads_double_request%22%3A%220%22%2C%22is_async_ads_in_headload_enabled%22%3A%220%22%2C%22is_async_ads_rti%22%3A%220%22%2C%22rti_delivery_backend%22%3A%220%22%7D%2C%22first%22%3A3%2C%22last%22%3Anull%2C%22variant%22%3A%22home%22%2C%22__relay_internal__pv__PolarisImmersiveFeedChainingEnabledrelayprovider%22%3Afalse%2C%22__relay_internal__pv__PolarisAIGMMediaWebLabelEnabledrelayprovider%22%3Afalse%2C%22__relay_internal__pv__PolarisAIGMAccountLabelEnabledrelayprovider%22%3Afalse%2C%22__relay_internal__pv__PolarisReelsRecoDebugOverlayEnabledrelayprovider%22%3Afalse%7D&doc_id=37319089834342862",
+      "headers": {
+        "sec-ch-ua-full-version-list": "\"Chromium\";v=\"149.0.7827.55\", \"Not)A;Brand\";v=\"24.0.0.0\"",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "x-root-field-name": "xdt_api__v1__feed__timeline__connection",
+        "sec-ch-ua": "\"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+        "sec-ch-ua-model": "\"\"",
+        "sec-ch-ua-mobile": "?0",
+        "x-ig-app-id": "936619743392459",
+        "x-fb-lsd": "wUa-MqMRvdvmjVsWVCEOR9",
+        "content-type": "application/x-www-form-urlencoded",
+        "x-csrftoken": "qG4hXB0XE214DQIn6Tow05OAbQTbT5p9",
+        "referer": "https://www.instagram.com/reels/DZmp9PCpxYW/",
+        "accept-language": "en-US,en;q=0.9",
+        "x-ig-max-touch-points": "0",
+        "x-fb-friendly-name": "PolarisFeedTimelineRootV2Query",
+        "x-bloks-version-id": "9710744400aad993bd60d4784987ff111f0f5d8a9859069ba8ae7485ed483e3f",
+        "x-asbd-id": "359341",
+        "sec-ch-prefers-color-scheme": "light",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120 Safari/537.36",
+        "sec-ch-ua-platform-version": "\"10.0\""
+      }
+    }
+  },
+  {
+    "idKey": "26634095419528039",
+    "title": "Original audio",
+    "audioType": "original_sound",
+    "audioClusterId": null,
+    "audioAssetId": "26634095419528039",
+    "musicCanonicalId": null,
+    "meta": {
+      "original_sound_info": {
+        "audio_asset_id": "26634095419528039",
+        "ig_artist": {
+          "profile_pic_url": "https://instagram.fcok2-1.fna.fbcdn.net/v/t51.82787-19/661610146_18141090208503132_6817700708309733341_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fcok2-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2gHWSicVSDYdGS5NBRbIE-S02XlxamqLhcEBD_gxPrxFtURLgTYtAliARDEDn6WbnjtaIzzAz8evpHDmPd-c-jxA&_nc_ohc=xH1ZAcYHiE4Q7kNvwE7Bj4T&_nc_gid=qn9OUVeNoXd5rL4QbHB_Xw&edm=AELP8isBAAAA&ccb=7-5&oh=00_AQD0EyDcCKdnjmoZ2I2R3_WMY2Pu_Dokri7hbblkhEvdGg&oe=6A4BFA10&_nc_sid=606eca",
+          "id": "14935527131",
+          "username": "the_atrey_sia"
+        },
+        "consumption_info": {
+          "should_mute_audio_reason_type": null,
+          "is_trending_in_clips": false
+        },
+        "original_audio_title": "Original audio",
+        "is_explicit": false,
+        "audio_filter_infos": null
+      },
+      "clips_metadata": {
+        "is_shared_to_fb": false,
+        "music_info": null,
+        "original_sound_info": {
+          "audio_asset_id": "26634095419528039",
+          "ig_artist": {
+            "profile_pic_url": "https://instagram.fcok2-1.fna.fbcdn.net/v/t51.82787-19/661610146_18141090208503132_6817700708309733341_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fcok2-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2gHWSicVSDYdGS5NBRbIE-S02XlxamqLhcEBD_gxPrxFtURLgTYtAliARDEDn6WbnjtaIzzAz8evpHDmPd-c-jxA&_nc_ohc=xH1ZAcYHiE4Q7kNvwE7Bj4T&_nc_gid=qn9OUVeNoXd5rL4QbHB_Xw&edm=AELP8isBAAAA&ccb=7-5&oh=00_AQD0EyDcCKdnjmoZ2I2R3_WMY2Pu_Dokri7hbblkhEvdGg&oe=6A4BFA10&_nc_sid=606eca",
+            "id": "14935527131",
+            "username": "the_atrey_sia"
+          },
+          "consumption_info": {
+            "should_mute_audio_reason_type": null,
+            "is_trending_in_clips": false
+          },
+          "original_audio_title": "Original audio",
+          "is_explicit": false,
+          "audio_filter_infos": null
+        }
+      }
+    },
+    "discoveredAt": 1782979634733,
+    "requestInfo": {
+      "url": "https://www.instagram.com/graphql/query",
+      "method": "POST",
+      "postData": "av=17841447521026029&__d=www&__user=0&__a=1&__req=a&__hs=20636.HYP%3Ainstagram_web_pkg.2.1...0&dpr=1&__ccg=GOOD&__rev=1042508450&__s=ljs5m4%3A99hnkp%3Agjaaqj&__hsi=7657839170307525145&__dyn=7xeUjG1mxu1syUbFp41twpUnwgU7SbzEdF8aUco2qwJxS0k24o0B-q1ew6ywaq0yE462mcw5Mx62G5UswoEcE7O2l0Fwqo5W1yw9O1lwlE-U2zxe2GewGw9a361qw8Xxm16wa-0oa2-azo7u3C2u2J0bS1LyUaUbGwmk0zU8oC1Iwqo5p389oed6goK10xKi2K7E5y4U158KmUhw5nyEcE4y16wAwj83KwRzk&__csr=gigX3cfMNtOhLSx9fYiB95Gy_lWfYycWV9fy7VaJlF4F9kZ49WXcHh4ydqyvivCJe9iAyEsKFGUkAj-DB8BhZlydflHimW8ycCkJ8zQJsCnlTqRTi4uj8Flx9vC9h4lJGQ5uFEKbV2aqGV8aubDG4umVokK5E9oCmimdxYyyK68W9zZdyVAaGu-gFpV4FHF0xy99oV4G7RDxS9zEkGnyojzESHDG12KZ6zo98y9x-0HU7Wm01W7w0M3w0bXfw27oe85S07yUoUYE3kU19U56dAws80U4E3iw19UwcE2QwMixh1rc0UE7fo9U460aUa0cGy8x5ysw6B0jp2OwcO0zS4FRg0imDg129804Au07zE0T60z80PJw&__hsdp=g8Q2Ikdh-kxi5GxoCSBimiHmEvJ8HyA_zAmcxp1GoPwwFxm4yq825xm8m14g88uB80yo2ZoK-2KdwZwsFE2YzohyUfo7W1swMwGgbEixS3e1gwAwwxe7Ey16g5a3OawrQ3aq0bhwg81WoO08Aw1ih03HU1k81bEa80Mi5819UaK08mBw3U820w4cCgCm8wmU0zS2i5o&__hblp=4wg87S1cxO3DzUiK9y87V0DRyoKpyqxm5WwjE451K1YwnErjUvCAz42O48twZxqq2C1eCxy2emu4oK8AwKgS4o5W1sx67Eyfx1wKxaaghwKAyE4m2i224UK4Ey16gswRwYyA361MCBU6K0pi2i0EUfqwjE1CEO0qO1TwbW04pk0FU5Pw2G82Fw9Wu0zo22xS2y22cw2REkw4Dxu4K3C3y0qem0cCwuofU4S6UmxO0Fo4Cp2pox0mE3EwiU2pU6O2i5o&__sjsp=g8Q2l5B24jb4Vi58mGp22rql9paJqx-QyKajKegiwpC5ofS&__comet_req=7&fb_dtsg=NAfwnwMVSmUdDcV-piPdtbsvFCsWgMnsVe2JPrlZnNuUO3boOkyyLwg%3A17855905060073950%3A1782876067&jazoest=26711&lsd=wUa-MqMRvdvmjVsWVCEOR9&__spin_r=1042508450&__spin_b=trunk&__spin_t=1782979623&__crn=comet.igweb.PolarisClipsTabDesktopProfiledContentRoute&fb_api_caller_class=RelayModern&fb_api_req_friendly_name=PolarisClipsTabDesktopPaginationQuery&server_timestamps=true&variables=%7B%22after%22%3A%22GibOl6abnZ6l9mys2Liq-PTT5mwmhuXvneRnFAQ0AikIGAAaCBgNczoxOWYyMWRkZjk0MxQBGgYZDAA%3D%22%2C%22before%22%3Anull%2C%22data%22%3A%7B%22container_module%22%3A%22clips_tab_desktop_page%22%2C%22seen_reels%22%3A%22%5B%7B%5C%22id%5C%22%3A%5C%223920005053618263574%5C%22%7D%5D%22%7D%2C%22first%22%3A10%2C%22last%22%3Anull%2C%22__relay_internal__pv__PolarisReelsRecoDebugOverlayEnabledrelayprovider%22%3Afalse%2C%22__relay_internal__pv__PolarisAIGMMediaWebLabelEnabledrelayprovider%22%3Afalse%7D&doc_id=36825039943776829",
+      "headers": {
+        "sec-ch-ua-full-version-list": "\"Chromium\";v=\"149.0.7827.55\", \"Not)A;Brand\";v=\"24.0.0.0\"",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "x-root-field-name": "xdt_api__v1__clips__home__connection_v2",
+        "sec-ch-ua": "\"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+        "sec-ch-ua-model": "\"\"",
+        "sec-ch-ua-mobile": "?0",
+        "x-ig-app-id": "936619743392459",
+        "x-fb-lsd": "wUa-MqMRvdvmjVsWVCEOR9",
+        "content-type": "application/x-www-form-urlencoded",
+        "x-csrftoken": "qG4hXB0XE214DQIn6Tow05OAbQTbT5p9",
+        "referer": "https://www.instagram.com/reels/DZmp9PCpxYW/",
+        "accept-language": "en-US,en;q=0.9",
+        "x-ig-max-touch-points": "0",
+        "x-fb-friendly-name": "PolarisClipsTabDesktopPaginationQuery",
+        "x-bloks-version-id": "9710744400aad993bd60d4784987ff111f0f5d8a9859069ba8ae7485ed483e3f",
+        "x-asbd-id": "359341",
+        "sec-ch-prefers-color-scheme": "light",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120 Safari/537.36",
+        "sec-ch-ua-platform-version": "\"10.0\""
+      }
+    }
+  },
+  {
+    "idKey": "1957035888071644",
+    "title": "Safar",
+    "audioType": "licensed_music",
+    "audioClusterId": "1957035888071644",
+    "audioAssetId": null,
+    "musicCanonicalId": null,
+    "meta": {
+      "music_asset_info": {
+        "audio_cluster_id": "1957035888071644",
+        "cover_artwork_thumbnail_uri": "https://scontent.fcok2-1.fna.fbcdn.net/v/t39.30808-6/699806148_71061003475601_6515475520490223202_n.jpg?stp=dst-jpg_s168x128_tt6&_nc_cat=111&ccb=1-7&_nc_sid=2f2557&_nc_ohc=XHJgA-6StKEQ7kNvwH-0Odx&_nc_oc=AdqhwTKFoNjiK7wRlzTCj2UJfsJ2M-wwBT5PIh_T8RGOBIFa11E-J6zZp39N5zmXdq58AmNzYSHFkdTW3qJl8I9r&_nc_ad=z-m&_nc_cid=1252&_nc_zt=23&_nc_ht=scontent.fcok2-1.fna&_nc_gid=qn9OUVeNoXd5rL4QbHB_Xw&_nc_ss=7b20f&oh=00_AQDc7Ht7jreiBpOdvzRUllaw9kzUxbAief2u2ACgZcTd_g&oe=6A4C0749",
+        "title": "Safar",
+        "display_artist": "Bayaan, Sherazam",
+        "is_explicit": false
+      },
+      "clips_metadata": {
+        "is_shared_to_fb": false,
+        "music_info": {
+          "music_asset_info": {
+            "audio_cluster_id": "1957035888071644",
+            "cover_artwork_thumbnail_uri": "https://scontent.fcok2-1.fna.fbcdn.net/v/t39.30808-6/699806148_71061003475601_6515475520490223202_n.jpg?stp=dst-jpg_s168x128_tt6&_nc_cat=111&ccb=1-7&_nc_sid=2f2557&_nc_ohc=XHJgA-6StKEQ7kNvwH-0Odx&_nc_oc=AdqhwTKFoNjiK7wRlzTCj2UJfsJ2M-wwBT5PIh_T8RGOBIFa11E-J6zZp39N5zmXdq58AmNzYSHFkdTW3qJl8I9r&_nc_ad=z-m&_nc_cid=1252&_nc_zt=23&_nc_ht=scontent.fcok2-1.fna&_nc_gid=qn9OUVeNoXd5rL4QbHB_Xw&_nc_ss=7b20f&oh=00_AQDc7Ht7jreiBpOdvzRUllaw9kzUxbAief2u2ACgZcTd_g&oe=6A4C0749",
+            "title": "Safar",
+            "display_artist": "Bayaan, Sherazam",
+            "is_explicit": false
+          },
+          "music_consumption_info": {
+            "should_mute_audio": false,
+            "is_trending_in_clips": false,
+            "audio_filter_infos": []
+          }
+        },
+        "original_sound_info": null
+      }
+    },
+    "discoveredAt": 1782979634733,
+    "requestInfo": {
+      "url": "https://www.instagram.com/graphql/query",
+      "method": "POST",
+      "postData": "av=17841447521026029&__d=www&__user=0&__a=1&__req=a&__hs=20636.HYP%3Ainstagram_web_pkg.2.1...0&dpr=1&__ccg=GOOD&__rev=1042508450&__s=ljs5m4%3A99hnkp%3Agjaaqj&__hsi=7657839170307525145&__dyn=7xeUjG1mxu1syUbFp41twpUnwgU7SbzEdF8aUco2qwJxS0k24o0B-q1ew6ywaq0yE462mcw5Mx62G5UswoEcE7O2l0Fwqo5W1yw9O1lwlE-U2zxe2GewGw9a361qw8Xxm16wa-0oa2-azo7u3C2u2J0bS1LyUaUbGwmk0zU8oC1Iwqo5p389oed6goK10xKi2K7E5y4U158KmUhw5nyEcE4y16wAwj83KwRzk&__csr=gigX3cfMNtOhLSx9fYiB95Gy_lWfYycWV9fy7VaJlF4F9kZ49WXcHh4ydqyvivCJe9iAyEsKFGUkAj-DB8BhZlydflHimW8ycCkJ8zQJsCnlTqRTi4uj8Flx9vC9h4lJGQ5uFEKbV2aqGV8aubDG4umVokK5E9oCmimdxYyyK68W9zZdyVAaGu-gFpV4FHF0xy99oV4G7RDxS9zEkGnyojzESHDG12KZ6zo98y9x-0HU7Wm01W7w0M3w0bXfw27oe85S07yUoUYE3kU19U56dAws80U4E3iw19UwcE2QwMixh1rc0UE7fo9U460aUa0cGy8x5ysw6B0jp2OwcO0zS4FRg0imDg129804Au07zE0T60z80PJw&__hsdp=g8Q2Ikdh-kxi5GxoCSBimiHmEvJ8HyA_zAmcxp1GoPwwFxm4yq825xm8m14g88uB80yo2ZoK-2KdwZwsFE2YzohyUfo7W1swMwGgbEixS3e1gwAwwxe7Ey16g5a3OawrQ3aq0bhwg81WoO08Aw1ih03HU1k81bEa80Mi5819UaK08mBw3U820w4cCgCm8wmU0zS2i5o&__hblp=4wg87S1cxO3DzUiK9y87V0DRyoKpyqxm5WwjE451K1YwnErjUvCAz42O48twZxqq2C1eCxy2emu4oK8AwKgS4o5W1sx67Eyfx1wKxaaghwKAyE4m2i224UK4Ey16gswRwYyA361MCBU6K0pi2i0EUfqwjE1CEO0qO1TwbW04pk0FU5Pw2G82Fw9Wu0zo22xS2y22cw2REkw4Dxu4K3C3y0qem0cCwuofU4S6UmxO0Fo4Cp2pox0mE3EwiU2pU6O2i5o&__sjsp=g8Q2l5B24jb4Vi58mGp22rql9paJqx-QyKajKegiwpC5ofS&__comet_req=7&fb_dtsg=NAfwnwMVSmUdDcV-piPdtbsvFCsWgMnsVe2JPrlZnNuUO3boOkyyLwg%3A17855905060073950%3A1782876067&jazoest=26711&lsd=wUa-MqMRvdvmjVsWVCEOR9&__spin_r=1042508450&__spin_b=trunk&__spin_t=1782979623&__crn=comet.igweb.PolarisClipsTabDesktopProfiledContentRoute&fb_api_caller_class=RelayModern&fb_api_req_friendly_name=PolarisClipsTabDesktopPaginationQuery&server_timestamps=true&variables=%7B%22after%22%3A%22GibOl6abnZ6l9mys2Liq-PTT5mwmhuXvneRnFAQ0AikIGAAaCBgNczoxOWYyMWRkZjk0MxQBGgYZDAA%3D%22%2C%22before%22%3Anull%2C%22data%22%3A%7B%22container_module%22%3A%22clips_tab_desktop_page%22%2C%22seen_reels%22%3A%22%5B%7B%5C%22id%5C%22%3A%5C%223920005053618263574%5C%22%7D%5D%22%7D%2C%22first%22%3A10%2C%22last%22%3Anull%2C%22__relay_internal__pv__PolarisReelsRecoDebugOverlayEnabledrelayprovider%22%3Afalse%2C%22__relay_internal__pv__PolarisAIGMMediaWebLabelEnabledrelayprovider%22%3Afalse%7D&doc_id=36825039943776829",
+      "headers": {
+        "sec-ch-ua-full-version-list": "\"Chromium\";v=\"149.0.7827.55\", \"Not)A;Brand\";v=\"24.0.0.0\"",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "x-root-field-name": "xdt_api__v1__clips__home__connection_v2",
+        "sec-ch-ua": "\"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+        "sec-ch-ua-model": "\"\"",
+        "sec-ch-ua-mobile": "?0",
+        "x-ig-app-id": "936619743392459",
+        "x-fb-lsd": "wUa-MqMRvdvmjVsWVCEOR9",
+        "content-type": "application/x-www-form-urlencoded",
+        "x-csrftoken": "qG4hXB0XE214DQIn6Tow05OAbQTbT5p9",
+        "referer": "https://www.instagram.com/reels/DZmp9PCpxYW/",
+        "accept-language": "en-US,en;q=0.9",
+        "x-ig-max-touch-points": "0",
+        "x-fb-friendly-name": "PolarisClipsTabDesktopPaginationQuery",
+        "x-bloks-version-id": "9710744400aad993bd60d4784987ff111f0f5d8a9859069ba8ae7485ed483e3f",
+        "x-asbd-id": "359341",
+        "sec-ch-prefers-color-scheme": "light",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120 Safari/537.36",
+        "sec-ch-ua-platform-version": "\"10.0\""
+      }
+    }
+  },
+  {
+    "idKey": "27436979835929222",
+    "title": "Original audio",
+    "audioType": "original_sound",
+    "audioClusterId": null,
+    "audioAssetId": "27436979835929222",
+    "musicCanonicalId": null,
+    "meta": {
+      "original_sound_info": {
+        "audio_asset_id": "27436979835929222",
+        "ig_artist": {
+          "profile_pic_url": "https://instagram.fcok2-1.fna.fbcdn.net/v/t51.82787-19/722753059_17921298744385152_6394281441572301270_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fcok2-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2gHWSicVSDYdGS5NBRbIE-S02XlxamqLhcEBD_gxPrxFtURLgTYtAliARDEDn6WbnjtaIzzAz8evpHDmPd-c-jxA&_nc_ohc=Vxnh-yLpHE0Q7kNvwEB19rd&_nc_gid=qn9OUVeNoXd5rL4QbHB_Xw&edm=AELP8isBAAAA&ccb=7-5&oh=00_AQBcslvOVXLHlpw02nLC8AoLbhkHC4sX84D-rypKsJnYpA&oe=6A4BD34F&_nc_sid=606eca",
+          "id": "71538409151",
+          "username": "krn.cptre"
+        },
+        "consumption_info": {
+          "should_mute_audio_reason_type": null,
+          "is_trending_in_clips": false
+        },
+        "original_audio_title": "Original audio",
+        "is_explicit": false,
+        "audio_filter_infos": null
+      },
+      "clips_metadata": {
+        "is_shared_to_fb": false,
+        "music_info": null,
+        "original_sound_info": {
+          "audio_asset_id": "27436979835929222",
+          "ig_artist": {
+            "profile_pic_url": "https://instagram.fcok2-1.fna.fbcdn.net/v/t51.82787-19/722753059_17921298744385152_6394281441572301270_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fcok2-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2gHWSicVSDYdGS5NBRbIE-S02XlxamqLhcEBD_gxPrxFtURLgTYtAliARDEDn6WbnjtaIzzAz8evpHDmPd-c-jxA&_nc_ohc=Vxnh-yLpHE0Q7kNvwEB19rd&_nc_gid=qn9OUVeNoXd5rL4QbHB_Xw&edm=AELP8isBAAAA&ccb=7-5&oh=00_AQBcslvOVXLHlpw02nLC8AoLbhkHC4sX84D-rypKsJnYpA&oe=6A4BD34F&_nc_sid=606eca",
+            "id": "71538409151",
+            "username": "krn.cptre"
+          },
+          "consumption_info": {
+            "should_mute_audio_reason_type": null,
+            "is_trending_in_clips": false
+          },
+          "original_audio_title": "Original audio",
+          "is_explicit": false,
+          "audio_filter_infos": null
+        }
+      }
+    },
+    "discoveredAt": 1782979634733,
+    "requestInfo": {
+      "url": "https://www.instagram.com/graphql/query",
+      "method": "POST",
+      "postData": "av=17841447521026029&__d=www&__user=0&__a=1&__req=a&__hs=20636.HYP%3Ainstagram_web_pkg.2.1...0&dpr=1&__ccg=GOOD&__rev=1042508450&__s=ljs5m4%3A99hnkp%3Agjaaqj&__hsi=7657839170307525145&__dyn=7xeUjG1mxu1syUbFp41twpUnwgU7SbzEdF8aUco2qwJxS0k24o0B-q1ew6ywaq0yE462mcw5Mx62G5UswoEcE7O2l0Fwqo5W1yw9O1lwlE-U2zxe2GewGw9a361qw8Xxm16wa-0oa2-azo7u3C2u2J0bS1LyUaUbGwmk0zU8oC1Iwqo5p389oed6goK10xKi2K7E5y4U158KmUhw5nyEcE4y16wAwj83KwRzk&__csr=gigX3cfMNtOhLSx9fYiB95Gy_lWfYycWV9fy7VaJlF4F9kZ49WXcHh4ydqyvivCJe9iAyEsKFGUkAj-DB8BhZlydflHimW8ycCkJ8zQJsCnlTqRTi4uj8Flx9vC9h4lJGQ5uFEKbV2aqGV8aubDG4umVokK5E9oCmimdxYyyK68W9zZdyVAaGu-gFpV4FHF0xy99oV4G7RDxS9zEkGnyojzESHDG12KZ6zo98y9x-0HU7Wm01W7w0M3w0bXfw27oe85S07yUoUYE3kU19U56dAws80U4E3iw19UwcE2QwMixh1rc0UE7fo9U460aUa0cGy8x5ysw6B0jp2OwcO0zS4FRg0imDg129804Au07zE0T60z80PJw&__hsdp=g8Q2Ikdh-kxi5GxoCSBimiHmEvJ8HyA_zAmcxp1GoPwwFxm4yq825xm8m14g88uB80yo2ZoK-2KdwZwsFE2YzohyUfo7W1swMwGgbEixS3e1gwAwwxe7Ey16g5a3OawrQ3aq0bhwg81WoO08Aw1ih03HU1k81bEa80Mi5819UaK08mBw3U820w4cCgCm8wmU0zS2i5o&__hblp=4wg87S1cxO3DzUiK9y87V0DRyoKpyqxm5WwjE451K1YwnErjUvCAz42O48twZxqq2C1eCxy2emu4oK8AwKgS4o5W1sx67Eyfx1wKxaaghwKAyE4m2i224UK4Ey16gswRwYyA361MCBU6K0pi2i0EUfqwjE1CEO0qO1TwbW04pk0FU5Pw2G82Fw9Wu0zo22xS2y22cw2REkw4Dxu4K3C3y0qem0cCwuofU4S6UmxO0Fo4Cp2pox0mE3EwiU2pU6O2i5o&__sjsp=g8Q2l5B24jb4Vi58mGp22rql9paJqx-QyKajKegiwpC5ofS&__comet_req=7&fb_dtsg=NAfwnwMVSmUdDcV-piPdtbsvFCsWgMnsVe2JPrlZnNuUO3boOkyyLwg%3A17855905060073950%3A1782876067&jazoest=26711&lsd=wUa-MqMRvdvmjVsWVCEOR9&__spin_r=1042508450&__spin_b=trunk&__spin_t=1782979623&__crn=comet.igweb.PolarisClipsTabDesktopProfiledContentRoute&fb_api_caller_class=RelayModern&fb_api_req_friendly_name=PolarisClipsTabDesktopPaginationQuery&server_timestamps=true&variables=%7B%22after%22%3A%22GibOl6abnZ6l9mys2Liq-PTT5mwmhuXvneRnFAQ0AikIGAAaCBgNczoxOWYyMWRkZjk0MxQBGgYZDAA%3D%22%2C%22before%22%3Anull%2C%22data%22%3A%7B%22container_module%22%3A%22clips_tab_desktop_page%22%2C%22seen_reels%22%3A%22%5B%7B%5C%22id%5C%22%3A%5C%223920005053618263574%5C%22%7D%5D%22%7D%2C%22first%22%3A10%2C%22last%22%3Anull%2C%22__relay_internal__pv__PolarisReelsRecoDebugOverlayEnabledrelayprovider%22%3Afalse%2C%22__relay_internal__pv__PolarisAIGMMediaWebLabelEnabledrelayprovider%22%3Afalse%7D&doc_id=36825039943776829",
+      "headers": {
+        "sec-ch-ua-full-version-list": "\"Chromium\";v=\"149.0.7827.55\", \"Not)A;Brand\";v=\"24.0.0.0\"",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "x-root-field-name": "xdt_api__v1__clips__home__connection_v2",
+        "sec-ch-ua": "\"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+        "sec-ch-ua-model": "\"\"",
+        "sec-ch-ua-mobile": "?0",
+        "x-ig-app-id": "936619743392459",
+        "x-fb-lsd": "wUa-MqMRvdvmjVsWVCEOR9",
+        "content-type": "application/x-www-form-urlencoded",
+        "x-csrftoken": "qG4hXB0XE214DQIn6Tow05OAbQTbT5p9",
+        "referer": "https://www.instagram.com/reels/DZmp9PCpxYW/",
+        "accept-language": "en-US,en;q=0.9",
+        "x-ig-max-touch-points": "0",
+        "x-fb-friendly-name": "PolarisClipsTabDesktopPaginationQuery",
+        "x-bloks-version-id": "9710744400aad993bd60d4784987ff111f0f5d8a9859069ba8ae7485ed483e3f",
+        "x-asbd-id": "359341",
+        "sec-ch-prefers-color-scheme": "light",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120 Safari/537.36",
+        "sec-ch-ua-platform-version": "\"10.0\""
+      }
+    }
+  },
+  {
+    "idKey": "27686989664320917",
+    "title": "Original audio",
+    "audioType": "original_sound",
+    "audioClusterId": null,
+    "audioAssetId": "27686989664320917",
+    "musicCanonicalId": null,
+    "meta": {
+      "original_sound_info": {
+        "audio_asset_id": "27686989664320917",
+        "ig_artist": {
+          "profile_pic_url": "https://instagram.fcok2-1.fna.fbcdn.net/v/t51.82787-19/608719468_17914739490255555_6256410710324241832_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fcok2-1.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2gHWSicVSDYdGS5NBRbIE-S02XlxamqLhcEBD_gxPrxFtURLgTYtAliARDEDn6WbnjtaIzzAz8evpHDmPd-c-jxA&_nc_ohc=4qRavSgRBMAQ7kNvwGWsSuI&_nc_gid=qn9OUVeNoXd5rL4QbHB_Xw&edm=AELP8isBAAAA&ccb=7-5&oh=00_AQAS148bhZt7HpEg4-2a1o_o7Qd2fDGDdEV6j-7KooO-DA&oe=6A4BE124&_nc_sid=606eca",
+          "id": "67605607554",
+          "username": "me_gha_subash"
+        },
+        "consumption_info": {
+          "should_mute_audio_reason_type": null,
+          "is_trending_in_clips": false
+        },
+        "original_audio_title": "Original audio",
+        "is_explicit": false,
+        "audio_filter_infos": null
+      },
+      "clips_metadata": {
+        "is_shared_to_fb": false,
+        "music_info": null,
+        "original_sound_info": {
+          "audio_asset_id": "27686989664320917",
+          "ig_artist": {
+            "profile_pic_url": "https://instagram.fcok2-1.fna.fbcdn.net/v/t51.82787-19/608719468_17914739490255555_6256410710324241832_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fcok2-1.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2gHWSicVSDYdGS5NBRbIE-S02XlxamqLhcEBD_gxPrxFtURLgTYtAliARDEDn6WbnjtaIzzAz8evpHDmPd-c-jxA&_nc_ohc=4qRavSgRBMAQ7kNvwGWsSuI&_nc_gid=qn9OUVeNoXd5rL4QbHB_Xw&edm=AELP8isBAAAA&ccb=7-5&oh=00_AQAS148bhZt7HpEg4-2a1o_o7Qd2fDGDdEV6j-7KooO-DA&oe=6A4BE124&_nc_sid=606eca",
+            "id": "67605607554",
+            "username": "me_gha_subash"
+          },
+          "consumption_info": {
+            "should_mute_audio_reason_type": null,
+            "is_trending_in_clips": false
+          },
+          "original_audio_title": "Original audio",
+          "is_explicit": false,
+          "audio_filter_infos": null
+        }
+      }
+    },
+    "discoveredAt": 1782979634733,
+    "requestInfo": {
+      "url": "https://www.instagram.com/graphql/query",
+      "method": "POST",
+      "postData": "av=17841447521026029&__d=www&__user=0&__a=1&__req=a&__hs=20636.HYP%3Ainstagram_web_pkg.2.1...0&dpr=1&__ccg=GOOD&__rev=1042508450&__s=ljs5m4%3A99hnkp%3Agjaaqj&__hsi=7657839170307525145&__dyn=7xeUjG1mxu1syUbFp41twpUnwgU7SbzEdF8aUco2qwJxS0k24o0B-q1ew6ywaq0yE462mcw5Mx62G5UswoEcE7O2l0Fwqo5W1yw9O1lwlE-U2zxe2GewGw9a361qw8Xxm16wa-0oa2-azo7u3C2u2J0bS1LyUaUbGwmk0zU8oC1Iwqo5p389oed6goK10xKi2K7E5y4U158KmUhw5nyEcE4y16wAwj83KwRzk&__csr=gigX3cfMNtOhLSx9fYiB95Gy_lWfYycWV9fy7VaJlF4F9kZ49WXcHh4ydqyvivCJe9iAyEsKFGUkAj-DB8BhZlydflHimW8ycCkJ8zQJsCnlTqRTi4uj8Flx9vC9h4lJGQ5uFEKbV2aqGV8aubDG4umVokK5E9oCmimdxYyyK68W9zZdyVAaGu-gFpV4FHF0xy99oV4G7RDxS9zEkGnyojzESHDG12KZ6zo98y9x-0HU7Wm01W7w0M3w0bXfw27oe85S07yUoUYE3kU19U56dAws80U4E3iw19UwcE2QwMixh1rc0UE7fo9U460aUa0cGy8x5ysw6B0jp2OwcO0zS4FRg0imDg129804Au07zE0T60z80PJw&__hsdp=g8Q2Ikdh-kxi5GxoCSBimiHmEvJ8HyA_zAmcxp1GoPwwFxm4yq825xm8m14g88uB80yo2ZoK-2KdwZwsFE2YzohyUfo7W1swMwGgbEixS3e1gwAwwxe7Ey16g5a3OawrQ3aq0bhwg81WoO08Aw1ih03HU1k81bEa80Mi5819UaK08mBw3U820w4cCgCm8wmU0zS2i5o&__hblp=4wg87S1cxO3DzUiK9y87V0DRyoKpyqxm5WwjE451K1YwnErjUvCAz42O48twZxqq2C1eCxy2emu4oK8AwKgS4o5W1sx67Eyfx1wKxaaghwKAyE4m2i224UK4Ey16gswRwYyA361MCBU6K0pi2i0EUfqwjE1CEO0qO1TwbW04pk0FU5Pw2G82Fw9Wu0zo22xS2y22cw2REkw4Dxu4K3C3y0qem0cCwuofU4S6UmxO0Fo4Cp2pox0mE3EwiU2pU6O2i5o&__sjsp=g8Q2l5B24jb4Vi58mGp22rql9paJqx-QyKajKegiwpC5ofS&__comet_req=7&fb_dtsg=NAfwnwMVSmUdDcV-piPdtbsvFCsWgMnsVe2JPrlZnNuUO3boOkyyLwg%3A17855905060073950%3A1782876067&jazoest=26711&lsd=wUa-MqMRvdvmjVsWVCEOR9&__spin_r=1042508450&__spin_b=trunk&__spin_t=1782979623&__crn=comet.igweb.PolarisClipsTabDesktopProfiledContentRoute&fb_api_caller_class=RelayModern&fb_api_req_friendly_name=PolarisClipsTabDesktopPaginationQuery&server_timestamps=true&variables=%7B%22after%22%3A%22GibOl6abnZ6l9mys2Liq-PTT5mwmhuXvneRnFAQ0AikIGAAaCBgNczoxOWYyMWRkZjk0MxQBGgYZDAA%3D%22%2C%22before%22%3Anull%2C%22data%22%3A%7B%22container_module%22%3A%22clips_tab_desktop_page%22%2C%22seen_reels%22%3A%22%5B%7B%5C%22id%5C%22%3A%5C%223920005053618263574%5C%22%7D%5D%22%7D%2C%22first%22%3A10%2C%22last%22%3Anull%2C%22__relay_internal__pv__PolarisReelsRecoDebugOverlayEnabledrelayprovider%22%3Afalse%2C%22__relay_internal__pv__PolarisAIGMMediaWebLabelEnabledrelayprovider%22%3Afalse%7D&doc_id=36825039943776829",
+      "headers": {
+        "sec-ch-ua-full-version-list": "\"Chromium\";v=\"149.0.7827.55\", \"Not)A;Brand\";v=\"24.0.0.0\"",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "x-root-field-name": "xdt_api__v1__clips__home__connection_v2",
+        "sec-ch-ua": "\"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+        "sec-ch-ua-model": "\"\"",
+        "sec-ch-ua-mobile": "?0",
+        "x-ig-app-id": "936619743392459",
+        "x-fb-lsd": "wUa-MqMRvdvmjVsWVCEOR9",
+        "content-type": "application/x-www-form-urlencoded",
+        "x-csrftoken": "qG4hXB0XE214DQIn6Tow05OAbQTbT5p9",
+        "referer": "https://www.instagram.com/reels/DZmp9PCpxYW/",
+        "accept-language": "en-US,en;q=0.9",
+        "x-ig-max-touch-points": "0",
+        "x-fb-friendly-name": "PolarisClipsTabDesktopPaginationQuery",
+        "x-bloks-version-id": "9710744400aad993bd60d4784987ff111f0f5d8a9859069ba8ae7485ed483e3f",
+        "x-asbd-id": "359341",
+        "sec-ch-prefers-color-scheme": "light",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120 Safari/537.36",
+        "sec-ch-ua-platform-version": "\"10.0\""
+      }
+    }
+  },
+  {
+    "idKey": "34785073181107939",
+    "title": "Mix: Cool Music • Rain Sound | lyricozz • Original audio",
+    "audioType": "original_sound",
+    "audioClusterId": null,
+    "audioAssetId": "34785073181107939",
+    "musicCanonicalId": null,
+    "meta": {
+      "original_sound_info": {
+        "audio_asset_id": "34785073181107939",
+        "ig_artist": {
+          "profile_pic_url": "https://instagram.fcok2-1.fna.fbcdn.net/v/t51.82787-19/708167195_18443103400139856_7122514473315741595_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fcok2-1.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2gHWSicVSDYdGS5NBRbIE-S02XlxamqLhcEBD_gxPrxFtURLgTYtAliARDEDn6WbnjtaIzzAz8evpHDmPd-c-jxA&_nc_ohc=Xrl4AbKzVV8Q7kNvwHkjgaS&_nc_gid=qn9OUVeNoXd5rL4QbHB_Xw&edm=AELP8isBAAAA&ccb=7-5&oh=00_AQCQZZQOApOilfevMKUhydOo-ZIPQxq4NP0q1DedTwheLA&oe=6A4BFB40&_nc_sid=606eca",
+          "id": "4211555855",
+          "username": "vdevv"
+        },
+        "consumption_info": {
+          "should_mute_audio_reason_type": null,
+          "is_trending_in_clips": false
+        },
+        "original_audio_title": "Mix: Cool Music • Rain Sound | lyricozz • Original audio",
+        "is_explicit": false,
+        "audio_filter_infos": null
+      },
+      "clips_metadata": {
+        "is_shared_to_fb": false,
+        "music_info": null,
+        "original_sound_info": {
+          "audio_asset_id": "34785073181107939",
+          "ig_artist": {
+            "profile_pic_url": "https://instagram.fcok2-1.fna.fbcdn.net/v/t51.82787-19/708167195_18443103400139856_7122514473315741595_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fcok2-1.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2gHWSicVSDYdGS5NBRbIE-S02XlxamqLhcEBD_gxPrxFtURLgTYtAliARDEDn6WbnjtaIzzAz8evpHDmPd-c-jxA&_nc_ohc=Xrl4AbKzVV8Q7kNvwHkjgaS&_nc_gid=qn9OUVeNoXd5rL4QbHB_Xw&edm=AELP8isBAAAA&ccb=7-5&oh=00_AQCQZZQOApOilfevMKUhydOo-ZIPQxq4NP0q1DedTwheLA&oe=6A4BFB40&_nc_sid=606eca",
+            "id": "4211555855",
+            "username": "vdevv"
+          },
+          "consumption_info": {
+            "should_mute_audio_reason_type": null,
+            "is_trending_in_clips": false
+          },
+          "original_audio_title": "Mix: Cool Music • Rain Sound | lyricozz • Original audio",
+          "is_explicit": false,
+          "audio_filter_infos": null
+        }
+      }
+    },
+    "discoveredAt": 1782979634733,
+    "requestInfo": {
+      "url": "https://www.instagram.com/graphql/query",
+      "method": "POST",
+      "postData": "av=17841447521026029&__d=www&__user=0&__a=1&__req=a&__hs=20636.HYP%3Ainstagram_web_pkg.2.1...0&dpr=1&__ccg=GOOD&__rev=1042508450&__s=ljs5m4%3A99hnkp%3Agjaaqj&__hsi=7657839170307525145&__dyn=7xeUjG1mxu1syUbFp41twpUnwgU7SbzEdF8aUco2qwJxS0k24o0B-q1ew6ywaq0yE462mcw5Mx62G5UswoEcE7O2l0Fwqo5W1yw9O1lwlE-U2zxe2GewGw9a361qw8Xxm16wa-0oa2-azo7u3C2u2J0bS1LyUaUbGwmk0zU8oC1Iwqo5p389oed6goK10xKi2K7E5y4U158KmUhw5nyEcE4y16wAwj83KwRzk&__csr=gigX3cfMNtOhLSx9fYiB95Gy_lWfYycWV9fy7VaJlF4F9kZ49WXcHh4ydqyvivCJe9iAyEsKFGUkAj-DB8BhZlydflHimW8ycCkJ8zQJsCnlTqRTi4uj8Flx9vC9h4lJGQ5uFEKbV2aqGV8aubDG4umVokK5E9oCmimdxYyyK68W9zZdyVAaGu-gFpV4FHF0xy99oV4G7RDxS9zEkGnyojzESHDG12KZ6zo98y9x-0HU7Wm01W7w0M3w0bXfw27oe85S07yUoUYE3kU19U56dAws80U4E3iw19UwcE2QwMixh1rc0UE7fo9U460aUa0cGy8x5ysw6B0jp2OwcO0zS4FRg0imDg129804Au07zE0T60z80PJw&__hsdp=g8Q2Ikdh-kxi5GxoCSBimiHmEvJ8HyA_zAmcxp1GoPwwFxm4yq825xm8m14g88uB80yo2ZoK-2KdwZwsFE2YzohyUfo7W1swMwGgbEixS3e1gwAwwxe7Ey16g5a3OawrQ3aq0bhwg81WoO08Aw1ih03HU1k81bEa80Mi5819UaK08mBw3U820w4cCgCm8wmU0zS2i5o&__hblp=4wg87S1cxO3DzUiK9y87V0DRyoKpyqxm5WwjE451K1YwnErjUvCAz42O48twZxqq2C1eCxy2emu4oK8AwKgS4o5W1sx67Eyfx1wKxaaghwKAyE4m2i224UK4Ey16gswRwYyA361MCBU6K0pi2i0EUfqwjE1CEO0qO1TwbW04pk0FU5Pw2G82Fw9Wu0zo22xS2y22cw2REkw4Dxu4K3C3y0qem0cCwuofU4S6UmxO0Fo4Cp2pox0mE3EwiU2pU6O2i5o&__sjsp=g8Q2l5B24jb4Vi58mGp22rql9paJqx-QyKajKegiwpC5ofS&__comet_req=7&fb_dtsg=NAfwnwMVSmUdDcV-piPdtbsvFCsWgMnsVe2JPrlZnNuUO3boOkyyLwg%3A17855905060073950%3A1782876067&jazoest=26711&lsd=wUa-MqMRvdvmjVsWVCEOR9&__spin_r=1042508450&__spin_b=trunk&__spin_t=1782979623&__crn=comet.igweb.PolarisClipsTabDesktopProfiledContentRoute&fb_api_caller_class=RelayModern&fb_api_req_friendly_name=PolarisClipsTabDesktopPaginationQuery&server_timestamps=true&variables=%7B%22after%22%3A%22GibOl6abnZ6l9mys2Liq-PTT5mwmhuXvneRnFAQ0AikIGAAaCBgNczoxOWYyMWRkZjk0MxQBGgYZDAA%3D%22%2C%22before%22%3Anull%2C%22data%22%3A%7B%22container_module%22%3A%22clips_tab_desktop_page%22%2C%22seen_reels%22%3A%22%5B%7B%5C%22id%5C%22%3A%5C%223920005053618263574%5C%22%7D%5D%22%7D%2C%22first%22%3A10%2C%22last%22%3Anull%2C%22__relay_internal__pv__PolarisReelsRecoDebugOverlayEnabledrelayprovider%22%3Afalse%2C%22__relay_internal__pv__PolarisAIGMMediaWebLabelEnabledrelayprovider%22%3Afalse%7D&doc_id=36825039943776829",
+      "headers": {
+        "sec-ch-ua-full-version-list": "\"Chromium\";v=\"149.0.7827.55\", \"Not)A;Brand\";v=\"24.0.0.0\"",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "x-root-field-name": "xdt_api__v1__clips__home__connection_v2",
+        "sec-ch-ua": "\"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+        "sec-ch-ua-model": "\"\"",
+        "sec-ch-ua-mobile": "?0",
+        "x-ig-app-id": "936619743392459",
+        "x-fb-lsd": "wUa-MqMRvdvmjVsWVCEOR9",
+        "content-type": "application/x-www-form-urlencoded",
+        "x-csrftoken": "qG4hXB0XE214DQIn6Tow05OAbQTbT5p9",
+        "referer": "https://www.instagram.com/reels/DZmp9PCpxYW/",
+        "accept-language": "en-US,en;q=0.9",
+        "x-ig-max-touch-points": "0",
+        "x-fb-friendly-name": "PolarisClipsTabDesktopPaginationQuery",
+        "x-bloks-version-id": "9710744400aad993bd60d4784987ff111f0f5d8a9859069ba8ae7485ed483e3f",
+        "x-asbd-id": "359341",
+        "sec-ch-prefers-color-scheme": "light",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120 Safari/537.36",
+        "sec-ch-ua-platform-version": "\"10.0\""
+      }
+    }
+  },
+  {
+    "idKey": "2013005738780280",
+    "title": "Behti Hawa Sa Tha Woh",
+    "audioType": "licensed_music",
+    "audioClusterId": "2013005738780280",
+    "audioAssetId": null,
+    "musicCanonicalId": null,
+    "meta": {
+      "music_asset_info": {
+        "audio_cluster_id": "2013005738780280",
+        "cover_artwork_thumbnail_uri": "https://scontent.fcok2-1.fna.fbcdn.net/v/t39.30808-6/505929017_90029962464654_755840994921759016_n.jpg?stp=dst-jpg_s168x128_tt6&_nc_cat=1&ccb=1-7&_nc_sid=2f2557&_nc_ohc=oZg45fotGqcQ7kNvwH7gB8D&_nc_oc=AdqH4dATZatinowqc_GKDagM94hUWoMIHV1Qp3_Xxid6rl6dq1U00-tAI2HIXOkG8_Gm1zUteXXp23lvQFr14ARe&_nc_ad=z-m&_nc_cid=1252&_nc_zt=23&_nc_ht=scontent.fcok2-1.fna&_nc_gid=qn9OUVeNoXd5rL4QbHB_Xw&_nc_ss=7b20f&oh=00_AQBLT8zj1Z5Eob3E-mcXGwBLD630jGmudohaflubKXGW4g&oe=6A4C04F7",
+        "title": "Behti Hawa Sa Tha Woh",
+        "display_artist": "Shaan, Shantanu Moitra",
+        "is_explicit": false
+      },
+      "clips_metadata": {
+        "is_shared_to_fb": false,
+        "music_info": {
+          "music_asset_info": {
+            "audio_cluster_id": "2013005738780280",
+            "cover_artwork_thumbnail_uri": "https://scontent.fcok2-1.fna.fbcdn.net/v/t39.30808-6/505929017_90029962464654_755840994921759016_n.jpg?stp=dst-jpg_s168x128_tt6&_nc_cat=1&ccb=1-7&_nc_sid=2f2557&_nc_ohc=oZg45fotGqcQ7kNvwH7gB8D&_nc_oc=AdqH4dATZatinowqc_GKDagM94hUWoMIHV1Qp3_Xxid6rl6dq1U00-tAI2HIXOkG8_Gm1zUteXXp23lvQFr14ARe&_nc_ad=z-m&_nc_cid=1252&_nc_zt=23&_nc_ht=scontent.fcok2-1.fna&_nc_gid=qn9OUVeNoXd5rL4QbHB_Xw&_nc_ss=7b20f&oh=00_AQBLT8zj1Z5Eob3E-mcXGwBLD630jGmudohaflubKXGW4g&oe=6A4C04F7",
+            "title": "Behti Hawa Sa Tha Woh",
+            "display_artist": "Shaan, Shantanu Moitra",
+            "is_explicit": false
+          },
+          "music_consumption_info": {
+            "should_mute_audio": false,
+            "is_trending_in_clips": true,
+            "audio_filter_infos": []
+          }
+        },
+        "original_sound_info": null
+      }
+    },
+    "discoveredAt": 1782979634733,
+    "requestInfo": {
+      "url": "https://www.instagram.com/graphql/query",
+      "method": "POST",
+      "postData": "av=17841447521026029&__d=www&__user=0&__a=1&__req=a&__hs=20636.HYP%3Ainstagram_web_pkg.2.1...0&dpr=1&__ccg=GOOD&__rev=1042508450&__s=ljs5m4%3A99hnkp%3Agjaaqj&__hsi=7657839170307525145&__dyn=7xeUjG1mxu1syUbFp41twpUnwgU7SbzEdF8aUco2qwJxS0k24o0B-q1ew6ywaq0yE462mcw5Mx62G5UswoEcE7O2l0Fwqo5W1yw9O1lwlE-U2zxe2GewGw9a361qw8Xxm16wa-0oa2-azo7u3C2u2J0bS1LyUaUbGwmk0zU8oC1Iwqo5p389oed6goK10xKi2K7E5y4U158KmUhw5nyEcE4y16wAwj83KwRzk&__csr=gigX3cfMNtOhLSx9fYiB95Gy_lWfYycWV9fy7VaJlF4F9kZ49WXcHh4ydqyvivCJe9iAyEsKFGUkAj-DB8BhZlydflHimW8ycCkJ8zQJsCnlTqRTi4uj8Flx9vC9h4lJGQ5uFEKbV2aqGV8aubDG4umVokK5E9oCmimdxYyyK68W9zZdyVAaGu-gFpV4FHF0xy99oV4G7RDxS9zEkGnyojzESHDG12KZ6zo98y9x-0HU7Wm01W7w0M3w0bXfw27oe85S07yUoUYE3kU19U56dAws80U4E3iw19UwcE2QwMixh1rc0UE7fo9U460aUa0cGy8x5ysw6B0jp2OwcO0zS4FRg0imDg129804Au07zE0T60z80PJw&__hsdp=g8Q2Ikdh-kxi5GxoCSBimiHmEvJ8HyA_zAmcxp1GoPwwFxm4yq825xm8m14g88uB80yo2ZoK-2KdwZwsFE2YzohyUfo7W1swMwGgbEixS3e1gwAwwxe7Ey16g5a3OawrQ3aq0bhwg81WoO08Aw1ih03HU1k81bEa80Mi5819UaK08mBw3U820w4cCgCm8wmU0zS2i5o&__hblp=4wg87S1cxO3DzUiK9y87V0DRyoKpyqxm5WwjE451K1YwnErjUvCAz42O48twZxqq2C1eCxy2emu4oK8AwKgS4o5W1sx67Eyfx1wKxaaghwKAyE4m2i224UK4Ey16gswRwYyA361MCBU6K0pi2i0EUfqwjE1CEO0qO1TwbW04pk0FU5Pw2G82Fw9Wu0zo22xS2y22cw2REkw4Dxu4K3C3y0qem0cCwuofU4S6UmxO0Fo4Cp2pox0mE3EwiU2pU6O2i5o&__sjsp=g8Q2l5B24jb4Vi58mGp22rql9paJqx-QyKajKegiwpC5ofS&__comet_req=7&fb_dtsg=NAfwnwMVSmUdDcV-piPdtbsvFCsWgMnsVe2JPrlZnNuUO3boOkyyLwg%3A17855905060073950%3A1782876067&jazoest=26711&lsd=wUa-MqMRvdvmjVsWVCEOR9&__spin_r=1042508450&__spin_b=trunk&__spin_t=1782979623&__crn=comet.igweb.PolarisClipsTabDesktopProfiledContentRoute&fb_api_caller_class=RelayModern&fb_api_req_friendly_name=PolarisClipsTabDesktopPaginationQuery&server_timestamps=true&variables=%7B%22after%22%3A%22GibOl6abnZ6l9mys2Liq-PTT5mwmhuXvneRnFAQ0AikIGAAaCBgNczoxOWYyMWRkZjk0MxQBGgYZDAA%3D%22%2C%22before%22%3Anull%2C%22data%22%3A%7B%22container_module%22%3A%22clips_tab_desktop_page%22%2C%22seen_reels%22%3A%22%5B%7B%5C%22id%5C%22%3A%5C%223920005053618263574%5C%22%7D%5D%22%7D%2C%22first%22%3A10%2C%22last%22%3Anull%2C%22__relay_internal__pv__PolarisReelsRecoDebugOverlayEnabledrelayprovider%22%3Afalse%2C%22__relay_internal__pv__PolarisAIGMMediaWebLabelEnabledrelayprovider%22%3Afalse%7D&doc_id=36825039943776829",
+      "headers": {
+        "sec-ch-ua-full-version-list": "\"Chromium\";v=\"149.0.7827.55\", \"Not)A;Brand\";v=\"24.0.0.0\"",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "x-root-field-name": "xdt_api__v1__clips__home__connection_v2",
+        "sec-ch-ua": "\"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+        "sec-ch-ua-model": "\"\"",
+        "sec-ch-ua-mobile": "?0",
+        "x-ig-app-id": "936619743392459",
+        "x-fb-lsd": "wUa-MqMRvdvmjVsWVCEOR9",
+        "content-type": "application/x-www-form-urlencoded",
+        "x-csrftoken": "qG4hXB0XE214DQIn6Tow05OAbQTbT5p9",
+        "referer": "https://www.instagram.com/reels/DZmp9PCpxYW/",
+        "accept-language": "en-US,en;q=0.9",
+        "x-ig-max-touch-points": "0",
+        "x-fb-friendly-name": "PolarisClipsTabDesktopPaginationQuery",
+        "x-bloks-version-id": "9710744400aad993bd60d4784987ff111f0f5d8a9859069ba8ae7485ed483e3f",
+        "x-asbd-id": "359341",
+        "sec-ch-prefers-color-scheme": "light",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120 Safari/537.36",
+        "sec-ch-ua-platform-version": "\"10.0\""
+      }
+    }
+  },
+  {
+    "idKey": "766743846153488",
+    "title": "Thangapoove",
+    "audioType": "licensed_music",
+    "audioClusterId": "766743846153488",
+    "audioAssetId": null,
+    "musicCanonicalId": null,
+    "meta": {
+      "music_asset_info": {
+        "audio_cluster_id": "766743846153488",
+        "cover_artwork_thumbnail_uri": "https://scontent.fcok2-1.fna.fbcdn.net/v/t39.30808-6/544929552_71060164723596_1242889574231494461_n.jpg?stp=dst-jpg_s168x128_tt6&_nc_cat=1&ccb=1-7&_nc_sid=2f2557&_nc_ohc=TeVXMgwP89sQ7kNvwHYYQt1&_nc_oc=AdraC7gSOWBFQKhSGj7WTsfcOfU4_btQVTWU7uDhiVuXb8t9FKU6UQxXHH6KnmJeyRFFgWhlV22Mk4YU2bFSJvnZ&_nc_ad=z-m&_nc_cid=1252&_nc_zt=23&_nc_ht=scontent.fcok2-1.fna&_nc_gid=qn9OUVeNoXd5rL4QbHB_Xw&_nc_ss=7b20f&oh=00_AQDnjeihDL96c7LbMAj350q4hYlRzRGxlGmon3jpYosKFQ&oe=6A4BEE83",
+        "title": "Thangapoove",
+        "display_artist": "Anirudh Ravichander, Jishnu Vijayan, Deepak Ram",
+        "is_explicit": false
+      },
+      "clips_metadata": {
+        "is_shared_to_fb": false,
+        "music_info": {
+          "music_asset_info": {
+            "audio_cluster_id": "766743846153488",
+            "cover_artwork_thumbnail_uri": "https://scontent.fcok2-1.fna.fbcdn.net/v/t39.30808-6/544929552_71060164723596_1242889574231494461_n.jpg?stp=dst-jpg_s168x128_tt6&_nc_cat=1&ccb=1-7&_nc_sid=2f2557&_nc_ohc=TeVXMgwP89sQ7kNvwHYYQt1&_nc_oc=AdraC7gSOWBFQKhSGj7WTsfcOfU4_btQVTWU7uDhiVuXb8t9FKU6UQxXHH6KnmJeyRFFgWhlV22Mk4YU2bFSJvnZ&_nc_ad=z-m&_nc_cid=1252&_nc_zt=23&_nc_ht=scontent.fcok2-1.fna&_nc_gid=qn9OUVeNoXd5rL4QbHB_Xw&_nc_ss=7b20f&oh=00_AQDnjeihDL96c7LbMAj350q4hYlRzRGxlGmon3jpYosKFQ&oe=6A4BEE83",
+            "title": "Thangapoove",
+            "display_artist": "Anirudh Ravichander, Jishnu Vijayan, Deepak Ram",
+            "is_explicit": false
+          },
+          "music_consumption_info": {
+            "should_mute_audio": false,
+            "is_trending_in_clips": false,
+            "audio_filter_infos": []
+          }
+        },
+        "original_sound_info": null
+      }
+    },
+    "discoveredAt": 1782979634734,
+    "requestInfo": {
+      "url": "https://www.instagram.com/graphql/query",
+      "method": "POST",
+      "postData": "av=17841447521026029&__d=www&__user=0&__a=1&__req=a&__hs=20636.HYP%3Ainstagram_web_pkg.2.1...0&dpr=1&__ccg=GOOD&__rev=1042508450&__s=ljs5m4%3A99hnkp%3Agjaaqj&__hsi=7657839170307525145&__dyn=7xeUjG1mxu1syUbFp41twpUnwgU7SbzEdF8aUco2qwJxS0k24o0B-q1ew6ywaq0yE462mcw5Mx62G5UswoEcE7O2l0Fwqo5W1yw9O1lwlE-U2zxe2GewGw9a361qw8Xxm16wa-0oa2-azo7u3C2u2J0bS1LyUaUbGwmk0zU8oC1Iwqo5p389oed6goK10xKi2K7E5y4U158KmUhw5nyEcE4y16wAwj83KwRzk&__csr=gigX3cfMNtOhLSx9fYiB95Gy_lWfYycWV9fy7VaJlF4F9kZ49WXcHh4ydqyvivCJe9iAyEsKFGUkAj-DB8BhZlydflHimW8ycCkJ8zQJsCnlTqRTi4uj8Flx9vC9h4lJGQ5uFEKbV2aqGV8aubDG4umVokK5E9oCmimdxYyyK68W9zZdyVAaGu-gFpV4FHF0xy99oV4G7RDxS9zEkGnyojzESHDG12KZ6zo98y9x-0HU7Wm01W7w0M3w0bXfw27oe85S07yUoUYE3kU19U56dAws80U4E3iw19UwcE2QwMixh1rc0UE7fo9U460aUa0cGy8x5ysw6B0jp2OwcO0zS4FRg0imDg129804Au07zE0T60z80PJw&__hsdp=g8Q2Ikdh-kxi5GxoCSBimiHmEvJ8HyA_zAmcxp1GoPwwFxm4yq825xm8m14g88uB80yo2ZoK-2KdwZwsFE2YzohyUfo7W1swMwGgbEixS3e1gwAwwxe7Ey16g5a3OawrQ3aq0bhwg81WoO08Aw1ih03HU1k81bEa80Mi5819UaK08mBw3U820w4cCgCm8wmU0zS2i5o&__hblp=4wg87S1cxO3DzUiK9y87V0DRyoKpyqxm5WwjE451K1YwnErjUvCAz42O48twZxqq2C1eCxy2emu4oK8AwKgS4o5W1sx67Eyfx1wKxaaghwKAyE4m2i224UK4Ey16gswRwYyA361MCBU6K0pi2i0EUfqwjE1CEO0qO1TwbW04pk0FU5Pw2G82Fw9Wu0zo22xS2y22cw2REkw4Dxu4K3C3y0qem0cCwuofU4S6UmxO0Fo4Cp2pox0mE3EwiU2pU6O2i5o&__sjsp=g8Q2l5B24jb4Vi58mGp22rql9paJqx-QyKajKegiwpC5ofS&__comet_req=7&fb_dtsg=NAfwnwMVSmUdDcV-piPdtbsvFCsWgMnsVe2JPrlZnNuUO3boOkyyLwg%3A17855905060073950%3A1782876067&jazoest=26711&lsd=wUa-MqMRvdvmjVsWVCEOR9&__spin_r=1042508450&__spin_b=trunk&__spin_t=1782979623&__crn=comet.igweb.PolarisClipsTabDesktopProfiledContentRoute&fb_api_caller_class=RelayModern&fb_api_req_friendly_name=PolarisClipsTabDesktopPaginationQuery&server_timestamps=true&variables=%7B%22after%22%3A%22GibOl6abnZ6l9mys2Liq-PTT5mwmhuXvneRnFAQ0AikIGAAaCBgNczoxOWYyMWRkZjk0MxQBGgYZDAA%3D%22%2C%22before%22%3Anull%2C%22data%22%3A%7B%22container_module%22%3A%22clips_tab_desktop_page%22%2C%22seen_reels%22%3A%22%5B%7B%5C%22id%5C%22%3A%5C%223920005053618263574%5C%22%7D%5D%22%7D%2C%22first%22%3A10%2C%22last%22%3Anull%2C%22__relay_internal__pv__PolarisReelsRecoDebugOverlayEnabledrelayprovider%22%3Afalse%2C%22__relay_internal__pv__PolarisAIGMMediaWebLabelEnabledrelayprovider%22%3Afalse%7D&doc_id=36825039943776829",
+      "headers": {
+        "sec-ch-ua-full-version-list": "\"Chromium\";v=\"149.0.7827.55\", \"Not)A;Brand\";v=\"24.0.0.0\"",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "x-root-field-name": "xdt_api__v1__clips__home__connection_v2",
+        "sec-ch-ua": "\"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+        "sec-ch-ua-model": "\"\"",
+        "sec-ch-ua-mobile": "?0",
+        "x-ig-app-id": "936619743392459",
+        "x-fb-lsd": "wUa-MqMRvdvmjVsWVCEOR9",
+        "content-type": "application/x-www-form-urlencoded",
+        "x-csrftoken": "qG4hXB0XE214DQIn6Tow05OAbQTbT5p9",
+        "referer": "https://www.instagram.com/reels/DZmp9PCpxYW/",
+        "accept-language": "en-US,en;q=0.9",
+        "x-ig-max-touch-points": "0",
+        "x-fb-friendly-name": "PolarisClipsTabDesktopPaginationQuery",
+        "x-bloks-version-id": "9710744400aad993bd60d4784987ff111f0f5d8a9859069ba8ae7485ed483e3f",
+        "x-asbd-id": "359341",
+        "sec-ch-prefers-color-scheme": "light",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120 Safari/537.36",
+        "sec-ch-ua-platform-version": "\"10.0\""
+      }
+    }
+  },
+  {
+    "idKey": "36968352722778001",
+    "title": "Original audio",
+    "audioType": "original_sound",
+    "audioClusterId": null,
+    "audioAssetId": "36968352722778001",
+    "musicCanonicalId": null,
+    "meta": {
+      "original_sound_info": {
+        "audio_asset_id": "36968352722778001",
+        "ig_artist": {
+          "profile_pic_url": "https://instagram.fcok2-1.fna.fbcdn.net/v/t51.82787-19/654003988_17988449372949746_2323552474105273730_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fcok2-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2gHWSicVSDYdGS5NBRbIE-S02XlxamqLhcEBD_gxPrxFtURLgTYtAliARDEDn6WbnjtaIzzAz8evpHDmPd-c-jxA&_nc_ohc=CmutSu-f6lIQ7kNvwFyPRYQ&_nc_gid=qn9OUVeNoXd5rL4QbHB_Xw&edm=AELP8isBAAAA&ccb=7-5&oh=00_AQCNdkUZig83dQNroGFXMeNPNd_1-ghovwRmwy2ymbSfbA&oe=6A4C0354&_nc_sid=606eca",
+          "id": "58526869745",
+          "username": "meera_.e"
+        },
+        "consumption_info": {
+          "should_mute_audio_reason_type": null,
+          "is_trending_in_clips": false
+        },
+        "original_audio_title": "Original audio",
+        "is_explicit": false,
+        "audio_filter_infos": null
+      },
+      "clips_metadata": {
+        "is_shared_to_fb": false,
+        "music_info": null,
+        "original_sound_info": {
+          "audio_asset_id": "36968352722778001",
+          "ig_artist": {
+            "profile_pic_url": "https://instagram.fcok2-1.fna.fbcdn.net/v/t51.82787-19/654003988_17988449372949746_2323552474105273730_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fcok2-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2gHWSicVSDYdGS5NBRbIE-S02XlxamqLhcEBD_gxPrxFtURLgTYtAliARDEDn6WbnjtaIzzAz8evpHDmPd-c-jxA&_nc_ohc=CmutSu-f6lIQ7kNvwFyPRYQ&_nc_gid=qn9OUVeNoXd5rL4QbHB_Xw&edm=AELP8isBAAAA&ccb=7-5&oh=00_AQCNdkUZig83dQNroGFXMeNPNd_1-ghovwRmwy2ymbSfbA&oe=6A4C0354&_nc_sid=606eca",
+            "id": "58526869745",
+            "username": "meera_.e"
+          },
+          "consumption_info": {
+            "should_mute_audio_reason_type": null,
+            "is_trending_in_clips": false
+          },
+          "original_audio_title": "Original audio",
+          "is_explicit": false,
+          "audio_filter_infos": null
+        }
+      }
+    },
+    "discoveredAt": 1782979634734,
+    "requestInfo": {
+      "url": "https://www.instagram.com/graphql/query",
+      "method": "POST",
+      "postData": "av=17841447521026029&__d=www&__user=0&__a=1&__req=a&__hs=20636.HYP%3Ainstagram_web_pkg.2.1...0&dpr=1&__ccg=GOOD&__rev=1042508450&__s=ljs5m4%3A99hnkp%3Agjaaqj&__hsi=7657839170307525145&__dyn=7xeUjG1mxu1syUbFp41twpUnwgU7SbzEdF8aUco2qwJxS0k24o0B-q1ew6ywaq0yE462mcw5Mx62G5UswoEcE7O2l0Fwqo5W1yw9O1lwlE-U2zxe2GewGw9a361qw8Xxm16wa-0oa2-azo7u3C2u2J0bS1LyUaUbGwmk0zU8oC1Iwqo5p389oed6goK10xKi2K7E5y4U158KmUhw5nyEcE4y16wAwj83KwRzk&__csr=gigX3cfMNtOhLSx9fYiB95Gy_lWfYycWV9fy7VaJlF4F9kZ49WXcHh4ydqyvivCJe9iAyEsKFGUkAj-DB8BhZlydflHimW8ycCkJ8zQJsCnlTqRTi4uj8Flx9vC9h4lJGQ5uFEKbV2aqGV8aubDG4umVokK5E9oCmimdxYyyK68W9zZdyVAaGu-gFpV4FHF0xy99oV4G7RDxS9zEkGnyojzESHDG12KZ6zo98y9x-0HU7Wm01W7w0M3w0bXfw27oe85S07yUoUYE3kU19U56dAws80U4E3iw19UwcE2QwMixh1rc0UE7fo9U460aUa0cGy8x5ysw6B0jp2OwcO0zS4FRg0imDg129804Au07zE0T60z80PJw&__hsdp=g8Q2Ikdh-kxi5GxoCSBimiHmEvJ8HyA_zAmcxp1GoPwwFxm4yq825xm8m14g88uB80yo2ZoK-2KdwZwsFE2YzohyUfo7W1swMwGgbEixS3e1gwAwwxe7Ey16g5a3OawrQ3aq0bhwg81WoO08Aw1ih03HU1k81bEa80Mi5819UaK08mBw3U820w4cCgCm8wmU0zS2i5o&__hblp=4wg87S1cxO3DzUiK9y87V0DRyoKpyqxm5WwjE451K1YwnErjUvCAz42O48twZxqq2C1eCxy2emu4oK8AwKgS4o5W1sx67Eyfx1wKxaaghwKAyE4m2i224UK4Ey16gswRwYyA361MCBU6K0pi2i0EUfqwjE1CEO0qO1TwbW04pk0FU5Pw2G82Fw9Wu0zo22xS2y22cw2REkw4Dxu4K3C3y0qem0cCwuofU4S6UmxO0Fo4Cp2pox0mE3EwiU2pU6O2i5o&__sjsp=g8Q2l5B24jb4Vi58mGp22rql9paJqx-QyKajKegiwpC5ofS&__comet_req=7&fb_dtsg=NAfwnwMVSmUdDcV-piPdtbsvFCsWgMnsVe2JPrlZnNuUO3boOkyyLwg%3A17855905060073950%3A1782876067&jazoest=26711&lsd=wUa-MqMRvdvmjVsWVCEOR9&__spin_r=1042508450&__spin_b=trunk&__spin_t=1782979623&__crn=comet.igweb.PolarisClipsTabDesktopProfiledContentRoute&fb_api_caller_class=RelayModern&fb_api_req_friendly_name=PolarisClipsTabDesktopPaginationQuery&server_timestamps=true&variables=%7B%22after%22%3A%22GibOl6abnZ6l9mys2Liq-PTT5mwmhuXvneRnFAQ0AikIGAAaCBgNczoxOWYyMWRkZjk0MxQBGgYZDAA%3D%22%2C%22before%22%3Anull%2C%22data%22%3A%7B%22container_module%22%3A%22clips_tab_desktop_page%22%2C%22seen_reels%22%3A%22%5B%7B%5C%22id%5C%22%3A%5C%223920005053618263574%5C%22%7D%5D%22%7D%2C%22first%22%3A10%2C%22last%22%3Anull%2C%22__relay_internal__pv__PolarisReelsRecoDebugOverlayEnabledrelayprovider%22%3Afalse%2C%22__relay_internal__pv__PolarisAIGMMediaWebLabelEnabledrelayprovider%22%3Afalse%7D&doc_id=36825039943776829",
+      "headers": {
+        "sec-ch-ua-full-version-list": "\"Chromium\";v=\"149.0.7827.55\", \"Not)A;Brand\";v=\"24.0.0.0\"",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "x-root-field-name": "xdt_api__v1__clips__home__connection_v2",
+        "sec-ch-ua": "\"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+        "sec-ch-ua-model": "\"\"",
+        "sec-ch-ua-mobile": "?0",
+        "x-ig-app-id": "936619743392459",
+        "x-fb-lsd": "wUa-MqMRvdvmjVsWVCEOR9",
+        "content-type": "application/x-www-form-urlencoded",
+        "x-csrftoken": "qG4hXB0XE214DQIn6Tow05OAbQTbT5p9",
+        "referer": "https://www.instagram.com/reels/DZmp9PCpxYW/",
+        "accept-language": "en-US,en;q=0.9",
+        "x-ig-max-touch-points": "0",
+        "x-fb-friendly-name": "PolarisClipsTabDesktopPaginationQuery",
+        "x-bloks-version-id": "9710744400aad993bd60d4784987ff111f0f5d8a9859069ba8ae7485ed483e3f",
+        "x-asbd-id": "359341",
+        "sec-ch-prefers-color-scheme": "light",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120 Safari/537.36",
+        "sec-ch-ua-platform-version": "\"10.0\""
+      }
+    }
+  },
+  {
+    "idKey": "795573236836841",
+    "title": "Mayajaalame",
+    "audioType": "licensed_music",
+    "audioClusterId": "795573236836841",
+    "audioAssetId": null,
+    "musicCanonicalId": null,
+    "meta": {
+      "music_asset_info": {
+        "audio_cluster_id": "795573236836841",
+        "cover_artwork_thumbnail_uri": "https://scontent.fcok2-1.fna.fbcdn.net/v/t39.30808-6/611608787_71060707179873_5261197376269491624_n.jpg?stp=dst-jpg_s168x128_tt6&_nc_cat=1&ccb=1-7&_nc_sid=2f2557&_nc_ohc=afXXyK0YoO8Q7kNvwE-3KOL&_nc_oc=AdqSO_BWfSieT7HdcnDVI7jIskWFD1Y-CX8EpuuJQvhzMzi11n-7QYbsTm21FNAd5TZ9c7TokUQkhtf2ceTuELud&_nc_ad=z-m&_nc_cid=1252&_nc_zt=23&_nc_ht=scontent.fcok2-1.fna&_nc_gid=qn9OUVeNoXd5rL4QbHB_Xw&_nc_ss=7b20f&oh=00_AQB38G11hCiiFr1VU7I_YvkB8PiYFNWvbZJc0nonNwGN9A&oe=6A4BD78A",
+        "title": "Mayajaalame",
+        "display_artist": "Justin Prabhakaran, Sooraj Santhosh, Manu Manjith",
+        "is_explicit": false
+      },
+      "clips_metadata": {
+        "is_shared_to_fb": false,
+        "music_info": {
+          "music_asset_info": {
+            "audio_cluster_id": "795573236836841",
+            "cover_artwork_thumbnail_uri": "https://scontent.fcok2-1.fna.fbcdn.net/v/t39.30808-6/611608787_71060707179873_5261197376269491624_n.jpg?stp=dst-jpg_s168x128_tt6&_nc_cat=1&ccb=1-7&_nc_sid=2f2557&_nc_ohc=afXXyK0YoO8Q7kNvwE-3KOL&_nc_oc=AdqSO_BWfSieT7HdcnDVI7jIskWFD1Y-CX8EpuuJQvhzMzi11n-7QYbsTm21FNAd5TZ9c7TokUQkhtf2ceTuELud&_nc_ad=z-m&_nc_cid=1252&_nc_zt=23&_nc_ht=scontent.fcok2-1.fna&_nc_gid=qn9OUVeNoXd5rL4QbHB_Xw&_nc_ss=7b20f&oh=00_AQB38G11hCiiFr1VU7I_YvkB8PiYFNWvbZJc0nonNwGN9A&oe=6A4BD78A",
+            "title": "Mayajaalame",
+            "display_artist": "Justin Prabhakaran, Sooraj Santhosh, Manu Manjith",
+            "is_explicit": false
+          },
+          "music_consumption_info": {
+            "should_mute_audio": false,
+            "is_trending_in_clips": false,
+            "audio_filter_infos": []
+          }
+        },
+        "original_sound_info": null
+      }
+    },
+    "discoveredAt": 1782979634734,
+    "requestInfo": {
+      "url": "https://www.instagram.com/graphql/query",
+      "method": "POST",
+      "postData": "av=17841447521026029&__d=www&__user=0&__a=1&__req=a&__hs=20636.HYP%3Ainstagram_web_pkg.2.1...0&dpr=1&__ccg=GOOD&__rev=1042508450&__s=ljs5m4%3A99hnkp%3Agjaaqj&__hsi=7657839170307525145&__dyn=7xeUjG1mxu1syUbFp41twpUnwgU7SbzEdF8aUco2qwJxS0k24o0B-q1ew6ywaq0yE462mcw5Mx62G5UswoEcE7O2l0Fwqo5W1yw9O1lwlE-U2zxe2GewGw9a361qw8Xxm16wa-0oa2-azo7u3C2u2J0bS1LyUaUbGwmk0zU8oC1Iwqo5p389oed6goK10xKi2K7E5y4U158KmUhw5nyEcE4y16wAwj83KwRzk&__csr=gigX3cfMNtOhLSx9fYiB95Gy_lWfYycWV9fy7VaJlF4F9kZ49WXcHh4ydqyvivCJe9iAyEsKFGUkAj-DB8BhZlydflHimW8ycCkJ8zQJsCnlTqRTi4uj8Flx9vC9h4lJGQ5uFEKbV2aqGV8aubDG4umVokK5E9oCmimdxYyyK68W9zZdyVAaGu-gFpV4FHF0xy99oV4G7RDxS9zEkGnyojzESHDG12KZ6zo98y9x-0HU7Wm01W7w0M3w0bXfw27oe85S07yUoUYE3kU19U56dAws80U4E3iw19UwcE2QwMixh1rc0UE7fo9U460aUa0cGy8x5ysw6B0jp2OwcO0zS4FRg0imDg129804Au07zE0T60z80PJw&__hsdp=g8Q2Ikdh-kxi5GxoCSBimiHmEvJ8HyA_zAmcxp1GoPwwFxm4yq825xm8m14g88uB80yo2ZoK-2KdwZwsFE2YzohyUfo7W1swMwGgbEixS3e1gwAwwxe7Ey16g5a3OawrQ3aq0bhwg81WoO08Aw1ih03HU1k81bEa80Mi5819UaK08mBw3U820w4cCgCm8wmU0zS2i5o&__hblp=4wg87S1cxO3DzUiK9y87V0DRyoKpyqxm5WwjE451K1YwnErjUvCAz42O48twZxqq2C1eCxy2emu4oK8AwKgS4o5W1sx67Eyfx1wKxaaghwKAyE4m2i224UK4Ey16gswRwYyA361MCBU6K0pi2i0EUfqwjE1CEO0qO1TwbW04pk0FU5Pw2G82Fw9Wu0zo22xS2y22cw2REkw4Dxu4K3C3y0qem0cCwuofU4S6UmxO0Fo4Cp2pox0mE3EwiU2pU6O2i5o&__sjsp=g8Q2l5B24jb4Vi58mGp22rql9paJqx-QyKajKegiwpC5ofS&__comet_req=7&fb_dtsg=NAfwnwMVSmUdDcV-piPdtbsvFCsWgMnsVe2JPrlZnNuUO3boOkyyLwg%3A17855905060073950%3A1782876067&jazoest=26711&lsd=wUa-MqMRvdvmjVsWVCEOR9&__spin_r=1042508450&__spin_b=trunk&__spin_t=1782979623&__crn=comet.igweb.PolarisClipsTabDesktopProfiledContentRoute&fb_api_caller_class=RelayModern&fb_api_req_friendly_name=PolarisClipsTabDesktopPaginationQuery&server_timestamps=true&variables=%7B%22after%22%3A%22GibOl6abnZ6l9mys2Liq-PTT5mwmhuXvneRnFAQ0AikIGAAaCBgNczoxOWYyMWRkZjk0MxQBGgYZDAA%3D%22%2C%22before%22%3Anull%2C%22data%22%3A%7B%22container_module%22%3A%22clips_tab_desktop_page%22%2C%22seen_reels%22%3A%22%5B%7B%5C%22id%5C%22%3A%5C%223920005053618263574%5C%22%7D%5D%22%7D%2C%22first%22%3A10%2C%22last%22%3Anull%2C%22__relay_internal__pv__PolarisReelsRecoDebugOverlayEnabledrelayprovider%22%3Afalse%2C%22__relay_internal__pv__PolarisAIGMMediaWebLabelEnabledrelayprovider%22%3Afalse%7D&doc_id=36825039943776829",
+      "headers": {
+        "sec-ch-ua-full-version-list": "\"Chromium\";v=\"149.0.7827.55\", \"Not)A;Brand\";v=\"24.0.0.0\"",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "x-root-field-name": "xdt_api__v1__clips__home__connection_v2",
+        "sec-ch-ua": "\"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+        "sec-ch-ua-model": "\"\"",
+        "sec-ch-ua-mobile": "?0",
+        "x-ig-app-id": "936619743392459",
+        "x-fb-lsd": "wUa-MqMRvdvmjVsWVCEOR9",
+        "content-type": "application/x-www-form-urlencoded",
+        "x-csrftoken": "qG4hXB0XE214DQIn6Tow05OAbQTbT5p9",
+        "referer": "https://www.instagram.com/reels/DZmp9PCpxYW/",
+        "accept-language": "en-US,en;q=0.9",
+        "x-ig-max-touch-points": "0",
+        "x-fb-friendly-name": "PolarisClipsTabDesktopPaginationQuery",
+        "x-bloks-version-id": "9710744400aad993bd60d4784987ff111f0f5d8a9859069ba8ae7485ed483e3f",
+        "x-asbd-id": "359341",
+        "sec-ch-prefers-color-scheme": "light",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120 Safari/537.36",
+        "sec-ch-ua-platform-version": "\"10.0\""
+      }
+    }
+  },
+  {
+    "idKey": "26686849307635115",
+    "title": "HPCA Dharamshala",
+    "audioType": "original_sound",
+    "audioClusterId": null,
+    "audioAssetId": "26686849307635115",
+    "musicCanonicalId": null,
+    "meta": {
+      "original_sound_info": {
+        "audio_asset_id": "26686849307635115",
+        "ig_artist": {
+          "profile_pic_url": "https://instagram.fcok2-1.fna.fbcdn.net/v/t51.82787-19/685386172_18086956832133709_545986130768707973_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NjQuYzIifQ&_nc_ht=instagram.fcok2-1.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2gHWSicVSDYdGS5NBRbIE-S02XlxamqLhcEBD_gxPrxFtURLgTYtAliARDEDn6WbnjtaIzzAz8evpHDmPd-c-jxA&_nc_ohc=p8Fi1uKVuOsQ7kNvwH4bAxU&_nc_gid=qn9OUVeNoXd5rL4QbHB_Xw&edm=AELP8isBAAAA&ccb=7-5&oh=00_AQAe2AbPv1eluZFmA07MDLwS-2kMLuRfvxUU7AGyg8oDpQ&oe=6A4BD359&_nc_sid=606eca",
+          "id": "33880461708",
+          "username": "withpahira"
+        },
+        "consumption_info": {
+          "should_mute_audio_reason_type": null,
+          "is_trending_in_clips": false
+        },
+        "original_audio_title": "HPCA Dharamshala",
+        "is_explicit": false,
+        "audio_filter_infos": null
+      },
+      "clips_metadata": {
+        "is_shared_to_fb": false,
+        "music_info": null,
+        "original_sound_info": {
+          "audio_asset_id": "26686849307635115",
+          "ig_artist": {
+            "profile_pic_url": "https://instagram.fcok2-1.fna.fbcdn.net/v/t51.82787-19/685386172_18086956832133709_545986130768707973_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NjQuYzIifQ&_nc_ht=instagram.fcok2-1.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2gHWSicVSDYdGS5NBRbIE-S02XlxamqLhcEBD_gxPrxFtURLgTYtAliARDEDn6WbnjtaIzzAz8evpHDmPd-c-jxA&_nc_ohc=p8Fi1uKVuOsQ7kNvwH4bAxU&_nc_gid=qn9OUVeNoXd5rL4QbHB_Xw&edm=AELP8isBAAAA&ccb=7-5&oh=00_AQAe2AbPv1eluZFmA07MDLwS-2kMLuRfvxUU7AGyg8oDpQ&oe=6A4BD359&_nc_sid=606eca",
+            "id": "33880461708",
+            "username": "withpahira"
+          },
+          "consumption_info": {
+            "should_mute_audio_reason_type": null,
+            "is_trending_in_clips": false
+          },
+          "original_audio_title": "HPCA Dharamshala",
+          "is_explicit": false,
+          "audio_filter_infos": null
+        }
+      }
+    },
+    "discoveredAt": 1782979634734,
+    "requestInfo": {
+      "url": "https://www.instagram.com/graphql/query",
+      "method": "POST",
+      "postData": "av=17841447521026029&__d=www&__user=0&__a=1&__req=a&__hs=20636.HYP%3Ainstagram_web_pkg.2.1...0&dpr=1&__ccg=GOOD&__rev=1042508450&__s=ljs5m4%3A99hnkp%3Agjaaqj&__hsi=7657839170307525145&__dyn=7xeUjG1mxu1syUbFp41twpUnwgU7SbzEdF8aUco2qwJxS0k24o0B-q1ew6ywaq0yE462mcw5Mx62G5UswoEcE7O2l0Fwqo5W1yw9O1lwlE-U2zxe2GewGw9a361qw8Xxm16wa-0oa2-azo7u3C2u2J0bS1LyUaUbGwmk0zU8oC1Iwqo5p389oed6goK10xKi2K7E5y4U158KmUhw5nyEcE4y16wAwj83KwRzk&__csr=gigX3cfMNtOhLSx9fYiB95Gy_lWfYycWV9fy7VaJlF4F9kZ49WXcHh4ydqyvivCJe9iAyEsKFGUkAj-DB8BhZlydflHimW8ycCkJ8zQJsCnlTqRTi4uj8Flx9vC9h4lJGQ5uFEKbV2aqGV8aubDG4umVokK5E9oCmimdxYyyK68W9zZdyVAaGu-gFpV4FHF0xy99oV4G7RDxS9zEkGnyojzESHDG12KZ6zo98y9x-0HU7Wm01W7w0M3w0bXfw27oe85S07yUoUYE3kU19U56dAws80U4E3iw19UwcE2QwMixh1rc0UE7fo9U460aUa0cGy8x5ysw6B0jp2OwcO0zS4FRg0imDg129804Au07zE0T60z80PJw&__hsdp=g8Q2Ikdh-kxi5GxoCSBimiHmEvJ8HyA_zAmcxp1GoPwwFxm4yq825xm8m14g88uB80yo2ZoK-2KdwZwsFE2YzohyUfo7W1swMwGgbEixS3e1gwAwwxe7Ey16g5a3OawrQ3aq0bhwg81WoO08Aw1ih03HU1k81bEa80Mi5819UaK08mBw3U820w4cCgCm8wmU0zS2i5o&__hblp=4wg87S1cxO3DzUiK9y87V0DRyoKpyqxm5WwjE451K1YwnErjUvCAz42O48twZxqq2C1eCxy2emu4oK8AwKgS4o5W1sx67Eyfx1wKxaaghwKAyE4m2i224UK4Ey16gswRwYyA361MCBU6K0pi2i0EUfqwjE1CEO0qO1TwbW04pk0FU5Pw2G82Fw9Wu0zo22xS2y22cw2REkw4Dxu4K3C3y0qem0cCwuofU4S6UmxO0Fo4Cp2pox0mE3EwiU2pU6O2i5o&__sjsp=g8Q2l5B24jb4Vi58mGp22rql9paJqx-QyKajKegiwpC5ofS&__comet_req=7&fb_dtsg=NAfwnwMVSmUdDcV-piPdtbsvFCsWgMnsVe2JPrlZnNuUO3boOkyyLwg%3A17855905060073950%3A1782876067&jazoest=26711&lsd=wUa-MqMRvdvmjVsWVCEOR9&__spin_r=1042508450&__spin_b=trunk&__spin_t=1782979623&__crn=comet.igweb.PolarisClipsTabDesktopProfiledContentRoute&fb_api_caller_class=RelayModern&fb_api_req_friendly_name=PolarisClipsTabDesktopPaginationQuery&server_timestamps=true&variables=%7B%22after%22%3A%22GibOl6abnZ6l9mys2Liq-PTT5mwmhuXvneRnFAQ0AikIGAAaCBgNczoxOWYyMWRkZjk0MxQBGgYZDAA%3D%22%2C%22before%22%3Anull%2C%22data%22%3A%7B%22container_module%22%3A%22clips_tab_desktop_page%22%2C%22seen_reels%22%3A%22%5B%7B%5C%22id%5C%22%3A%5C%223920005053618263574%5C%22%7D%5D%22%7D%2C%22first%22%3A10%2C%22last%22%3Anull%2C%22__relay_internal__pv__PolarisReelsRecoDebugOverlayEnabledrelayprovider%22%3Afalse%2C%22__relay_internal__pv__PolarisAIGMMediaWebLabelEnabledrelayprovider%22%3Afalse%7D&doc_id=36825039943776829",
+      "headers": {
+        "sec-ch-ua-full-version-list": "\"Chromium\";v=\"149.0.7827.55\", \"Not)A;Brand\";v=\"24.0.0.0\"",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "x-root-field-name": "xdt_api__v1__clips__home__connection_v2",
+        "sec-ch-ua": "\"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+        "sec-ch-ua-model": "\"\"",
+        "sec-ch-ua-mobile": "?0",
+        "x-ig-app-id": "936619743392459",
+        "x-fb-lsd": "wUa-MqMRvdvmjVsWVCEOR9",
+        "content-type": "application/x-www-form-urlencoded",
+        "x-csrftoken": "qG4hXB0XE214DQIn6Tow05OAbQTbT5p9",
+        "referer": "https://www.instagram.com/reels/DZmp9PCpxYW/",
+        "accept-language": "en-US,en;q=0.9",
+        "x-ig-max-touch-points": "0",
+        "x-fb-friendly-name": "PolarisClipsTabDesktopPaginationQuery",
+        "x-bloks-version-id": "9710744400aad993bd60d4784987ff111f0f5d8a9859069ba8ae7485ed483e3f",
+        "x-asbd-id": "359341",
+        "sec-ch-prefers-color-scheme": "light",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120 Safari/537.36",
+        "sec-ch-ua-platform-version": "\"10.0\""
+      }
+    }
+  },
+  {
+    "idKey": "2040580492651769",
+    "title": "Kun Faya Kun",
+    "audioType": "licensed_music",
+    "audioClusterId": "2040580492651769",
+    "audioAssetId": null,
+    "musicCanonicalId": null,
+    "meta": {
+      "music_asset_info": {
+        "audio_cluster_id": "2040580492651769",
+        "cover_artwork_thumbnail_uri": "https://scontent.fcok2-1.fna.fbcdn.net/v/t39.30808-6/427998551_1442753896598570_8801384514461419787_n.jpg?stp=dst-jpg_s168x128_tt6&_nc_cat=1&ccb=1-7&_nc_sid=2f2557&_nc_ohc=9c7PlPVek8kQ7kNvwEKcTHz&_nc_oc=AdozqB_blvrasNVGOBwEKMnvepZyVQ-CZnnJ7y20DjfCcdoKzjCAqdq4_15PbTHY2NxnJd1p2sn2nPx5R1l7XZEB&_nc_ad=z-m&_nc_cid=1252&_nc_zt=23&_nc_ht=scontent.fcok2-1.fna&_nc_gid=qn9OUVeNoXd5rL4QbHB_Xw&_nc_ss=7b20f&oh=00_AQAh_dNytsTWKZRjkJ4Pvsv0Og1f0Cnd5NuoDTeaho-jTQ&oe=6A4BE234",
+        "title": "Kun Faya Kun",
+        "display_artist": "Mohit Chauhan, A.R. Rahman, Javed Ali",
+        "is_explicit": false
+      },
+      "clips_metadata": {
+        "is_shared_to_fb": false,
+        "music_info": {
+          "music_asset_info": {
+            "audio_cluster_id": "2040580492651769",
+            "cover_artwork_thumbnail_uri": "https://scontent.fcok2-1.fna.fbcdn.net/v/t39.30808-6/427998551_1442753896598570_8801384514461419787_n.jpg?stp=dst-jpg_s168x128_tt6&_nc_cat=1&ccb=1-7&_nc_sid=2f2557&_nc_ohc=9c7PlPVek8kQ7kNvwEKcTHz&_nc_oc=AdozqB_blvrasNVGOBwEKMnvepZyVQ-CZnnJ7y20DjfCcdoKzjCAqdq4_15PbTHY2NxnJd1p2sn2nPx5R1l7XZEB&_nc_ad=z-m&_nc_cid=1252&_nc_zt=23&_nc_ht=scontent.fcok2-1.fna&_nc_gid=qn9OUVeNoXd5rL4QbHB_Xw&_nc_ss=7b20f&oh=00_AQAh_dNytsTWKZRjkJ4Pvsv0Og1f0Cnd5NuoDTeaho-jTQ&oe=6A4BE234",
+            "title": "Kun Faya Kun",
+            "display_artist": "Mohit Chauhan, A.R. Rahman, Javed Ali",
+            "is_explicit": false
+          },
+          "music_consumption_info": {
+            "should_mute_audio": false,
+            "is_trending_in_clips": false,
+            "audio_filter_infos": []
+          }
+        },
+        "original_sound_info": null
+      }
+    },
+    "discoveredAt": 1782979634734,
+    "requestInfo": {
+      "url": "https://www.instagram.com/graphql/query",
+      "method": "POST",
+      "postData": "av=17841447521026029&__d=www&__user=0&__a=1&__req=a&__hs=20636.HYP%3Ainstagram_web_pkg.2.1...0&dpr=1&__ccg=GOOD&__rev=1042508450&__s=ljs5m4%3A99hnkp%3Agjaaqj&__hsi=7657839170307525145&__dyn=7xeUjG1mxu1syUbFp41twpUnwgU7SbzEdF8aUco2qwJxS0k24o0B-q1ew6ywaq0yE462mcw5Mx62G5UswoEcE7O2l0Fwqo5W1yw9O1lwlE-U2zxe2GewGw9a361qw8Xxm16wa-0oa2-azo7u3C2u2J0bS1LyUaUbGwmk0zU8oC1Iwqo5p389oed6goK10xKi2K7E5y4U158KmUhw5nyEcE4y16wAwj83KwRzk&__csr=gigX3cfMNtOhLSx9fYiB95Gy_lWfYycWV9fy7VaJlF4F9kZ49WXcHh4ydqyvivCJe9iAyEsKFGUkAj-DB8BhZlydflHimW8ycCkJ8zQJsCnlTqRTi4uj8Flx9vC9h4lJGQ5uFEKbV2aqGV8aubDG4umVokK5E9oCmimdxYyyK68W9zZdyVAaGu-gFpV4FHF0xy99oV4G7RDxS9zEkGnyojzESHDG12KZ6zo98y9x-0HU7Wm01W7w0M3w0bXfw27oe85S07yUoUYE3kU19U56dAws80U4E3iw19UwcE2QwMixh1rc0UE7fo9U460aUa0cGy8x5ysw6B0jp2OwcO0zS4FRg0imDg129804Au07zE0T60z80PJw&__hsdp=g8Q2Ikdh-kxi5GxoCSBimiHmEvJ8HyA_zAmcxp1GoPwwFxm4yq825xm8m14g88uB80yo2ZoK-2KdwZwsFE2YzohyUfo7W1swMwGgbEixS3e1gwAwwxe7Ey16g5a3OawrQ3aq0bhwg81WoO08Aw1ih03HU1k81bEa80Mi5819UaK08mBw3U820w4cCgCm8wmU0zS2i5o&__hblp=4wg87S1cxO3DzUiK9y87V0DRyoKpyqxm5WwjE451K1YwnErjUvCAz42O48twZxqq2C1eCxy2emu4oK8AwKgS4o5W1sx67Eyfx1wKxaaghwKAyE4m2i224UK4Ey16gswRwYyA361MCBU6K0pi2i0EUfqwjE1CEO0qO1TwbW04pk0FU5Pw2G82Fw9Wu0zo22xS2y22cw2REkw4Dxu4K3C3y0qem0cCwuofU4S6UmxO0Fo4Cp2pox0mE3EwiU2pU6O2i5o&__sjsp=g8Q2l5B24jb4Vi58mGp22rql9paJqx-QyKajKegiwpC5ofS&__comet_req=7&fb_dtsg=NAfwnwMVSmUdDcV-piPdtbsvFCsWgMnsVe2JPrlZnNuUO3boOkyyLwg%3A17855905060073950%3A1782876067&jazoest=26711&lsd=wUa-MqMRvdvmjVsWVCEOR9&__spin_r=1042508450&__spin_b=trunk&__spin_t=1782979623&__crn=comet.igweb.PolarisClipsTabDesktopProfiledContentRoute&fb_api_caller_class=RelayModern&fb_api_req_friendly_name=PolarisClipsTabDesktopPaginationQuery&server_timestamps=true&variables=%7B%22after%22%3A%22GibOl6abnZ6l9mys2Liq-PTT5mwmhuXvneRnFAQ0AikIGAAaCBgNczoxOWYyMWRkZjk0MxQBGgYZDAA%3D%22%2C%22before%22%3Anull%2C%22data%22%3A%7B%22container_module%22%3A%22clips_tab_desktop_page%22%2C%22seen_reels%22%3A%22%5B%7B%5C%22id%5C%22%3A%5C%223920005053618263574%5C%22%7D%5D%22%7D%2C%22first%22%3A10%2C%22last%22%3Anull%2C%22__relay_internal__pv__PolarisReelsRecoDebugOverlayEnabledrelayprovider%22%3Afalse%2C%22__relay_internal__pv__PolarisAIGMMediaWebLabelEnabledrelayprovider%22%3Afalse%7D&doc_id=36825039943776829",
+      "headers": {
+        "sec-ch-ua-full-version-list": "\"Chromium\";v=\"149.0.7827.55\", \"Not)A;Brand\";v=\"24.0.0.0\"",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "x-root-field-name": "xdt_api__v1__clips__home__connection_v2",
+        "sec-ch-ua": "\"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+        "sec-ch-ua-model": "\"\"",
+        "sec-ch-ua-mobile": "?0",
+        "x-ig-app-id": "936619743392459",
+        "x-fb-lsd": "wUa-MqMRvdvmjVsWVCEOR9",
+        "content-type": "application/x-www-form-urlencoded",
+        "x-csrftoken": "qG4hXB0XE214DQIn6Tow05OAbQTbT5p9",
+        "referer": "https://www.instagram.com/reels/DZmp9PCpxYW/",
+        "accept-language": "en-US,en;q=0.9",
+        "x-ig-max-touch-points": "0",
+        "x-fb-friendly-name": "PolarisClipsTabDesktopPaginationQuery",
+        "x-bloks-version-id": "9710744400aad993bd60d4784987ff111f0f5d8a9859069ba8ae7485ed483e3f",
+        "x-asbd-id": "359341",
+        "sec-ch-prefers-color-scheme": "light",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120 Safari/537.36",
+        "sec-ch-ua-platform-version": "\"10.0\""
+      }
+    }
+  },
+  {
+    "idKey": "8489713394471329",
+    "title": "LAAVAN",
+    "audioType": "licensed_music",
+    "audioClusterId": "8489713394471329",
+    "audioAssetId": null,
+    "musicCanonicalId": null,
+    "meta": {
+      "music_asset_info": {
+        "audio_cluster_id": "8489713394471329",
+        "cover_artwork_thumbnail_uri": "https://scontent.fcok2-1.fna.fbcdn.net/v/t39.30808-6/469314102_90029309798627_2770809083421782491_n.jpg?stp=dst-jpg_s168x128_tt6&_nc_cat=1&ccb=1-7&_nc_sid=2f2557&_nc_ohc=6hFj3Wup5ukQ7kNvwEppBUT&_nc_oc=Adovj2hIOzMiOO0_ncJr90xsS6MpNbRsWasnqopG35YIwSFoHB-klKOUpjZrZZ5jQoCLsdLvSe45_P0gZME5U2V6&_nc_ad=z-m&_nc_cid=1252&_nc_zt=23&_nc_ht=scontent.fcok2-1.fna&_nc_gid=qn9OUVeNoXd5rL4QbHB_Xw&_nc_ss=7b20f&oh=00_AQBpCgImzFGDuBM0O4TqJyKNM2W8fOtdO2U3n-Irijy-zg&oe=6A4BF638",
+        "title": "LAAVAN",
+        "display_artist": "Jasmine Sandlas, Mofusion",
+        "is_explicit": false
+      },
+      "clips_metadata": {
+        "is_shared_to_fb": false,
+        "music_info": {
+          "music_asset_info": {
+            "audio_cluster_id": "8489713394471329",
+            "cover_artwork_thumbnail_uri": "https://scontent.fcok2-1.fna.fbcdn.net/v/t39.30808-6/469314102_90029309798627_2770809083421782491_n.jpg?stp=dst-jpg_s168x128_tt6&_nc_cat=1&ccb=1-7&_nc_sid=2f2557&_nc_ohc=6hFj3Wup5ukQ7kNvwEppBUT&_nc_oc=Adovj2hIOzMiOO0_ncJr90xsS6MpNbRsWasnqopG35YIwSFoHB-klKOUpjZrZZ5jQoCLsdLvSe45_P0gZME5U2V6&_nc_ad=z-m&_nc_cid=1252&_nc_zt=23&_nc_ht=scontent.fcok2-1.fna&_nc_gid=qn9OUVeNoXd5rL4QbHB_Xw&_nc_ss=7b20f&oh=00_AQBpCgImzFGDuBM0O4TqJyKNM2W8fOtdO2U3n-Irijy-zg&oe=6A4BF638",
+            "title": "LAAVAN",
+            "display_artist": "Jasmine Sandlas, Mofusion",
+            "is_explicit": false
+          },
+          "music_consumption_info": {
+            "should_mute_audio": false,
+            "is_trending_in_clips": true,
+            "audio_filter_infos": []
+          }
+        },
+        "original_sound_info": null
+      }
+    },
+    "discoveredAt": 1782979634734,
+    "requestInfo": {
+      "url": "https://www.instagram.com/graphql/query",
+      "method": "POST",
+      "postData": "av=17841447521026029&__d=www&__user=0&__a=1&__req=a&__hs=20636.HYP%3Ainstagram_web_pkg.2.1...0&dpr=1&__ccg=GOOD&__rev=1042508450&__s=ljs5m4%3A99hnkp%3Agjaaqj&__hsi=7657839170307525145&__dyn=7xeUjG1mxu1syUbFp41twpUnwgU7SbzEdF8aUco2qwJxS0k24o0B-q1ew6ywaq0yE462mcw5Mx62G5UswoEcE7O2l0Fwqo5W1yw9O1lwlE-U2zxe2GewGw9a361qw8Xxm16wa-0oa2-azo7u3C2u2J0bS1LyUaUbGwmk0zU8oC1Iwqo5p389oed6goK10xKi2K7E5y4U158KmUhw5nyEcE4y16wAwj83KwRzk&__csr=gigX3cfMNtOhLSx9fYiB95Gy_lWfYycWV9fy7VaJlF4F9kZ49WXcHh4ydqyvivCJe9iAyEsKFGUkAj-DB8BhZlydflHimW8ycCkJ8zQJsCnlTqRTi4uj8Flx9vC9h4lJGQ5uFEKbV2aqGV8aubDG4umVokK5E9oCmimdxYyyK68W9zZdyVAaGu-gFpV4FHF0xy99oV4G7RDxS9zEkGnyojzESHDG12KZ6zo98y9x-0HU7Wm01W7w0M3w0bXfw27oe85S07yUoUYE3kU19U56dAws80U4E3iw19UwcE2QwMixh1rc0UE7fo9U460aUa0cGy8x5ysw6B0jp2OwcO0zS4FRg0imDg129804Au07zE0T60z80PJw&__hsdp=g8Q2Ikdh-kxi5GxoCSBimiHmEvJ8HyA_zAmcxp1GoPwwFxm4yq825xm8m14g88uB80yo2ZoK-2KdwZwsFE2YzohyUfo7W1swMwGgbEixS3e1gwAwwxe7Ey16g5a3OawrQ3aq0bhwg81WoO08Aw1ih03HU1k81bEa80Mi5819UaK08mBw3U820w4cCgCm8wmU0zS2i5o&__hblp=4wg87S1cxO3DzUiK9y87V0DRyoKpyqxm5WwjE451K1YwnErjUvCAz42O48twZxqq2C1eCxy2emu4oK8AwKgS4o5W1sx67Eyfx1wKxaaghwKAyE4m2i224UK4Ey16gswRwYyA361MCBU6K0pi2i0EUfqwjE1CEO0qO1TwbW04pk0FU5Pw2G82Fw9Wu0zo22xS2y22cw2REkw4Dxu4K3C3y0qem0cCwuofU4S6UmxO0Fo4Cp2pox0mE3EwiU2pU6O2i5o&__sjsp=g8Q2l5B24jb4Vi58mGp22rql9paJqx-QyKajKegiwpC5ofS&__comet_req=7&fb_dtsg=NAfwnwMVSmUdDcV-piPdtbsvFCsWgMnsVe2JPrlZnNuUO3boOkyyLwg%3A17855905060073950%3A1782876067&jazoest=26711&lsd=wUa-MqMRvdvmjVsWVCEOR9&__spin_r=1042508450&__spin_b=trunk&__spin_t=1782979623&__crn=comet.igweb.PolarisClipsTabDesktopProfiledContentRoute&fb_api_caller_class=RelayModern&fb_api_req_friendly_name=PolarisClipsTabDesktopPaginationQuery&server_timestamps=true&variables=%7B%22after%22%3A%22GibOl6abnZ6l9mys2Liq-PTT5mwmhuXvneRnFAQ0AikIGAAaCBgNczoxOWYyMWRkZjk0MxQBGgYZDAA%3D%22%2C%22before%22%3Anull%2C%22data%22%3A%7B%22container_module%22%3A%22clips_tab_desktop_page%22%2C%22seen_reels%22%3A%22%5B%7B%5C%22id%5C%22%3A%5C%223920005053618263574%5C%22%7D%5D%22%7D%2C%22first%22%3A10%2C%22last%22%3Anull%2C%22__relay_internal__pv__PolarisReelsRecoDebugOverlayEnabledrelayprovider%22%3Afalse%2C%22__relay_internal__pv__PolarisAIGMMediaWebLabelEnabledrelayprovider%22%3Afalse%7D&doc_id=36825039943776829",
+      "headers": {
+        "sec-ch-ua-full-version-list": "\"Chromium\";v=\"149.0.7827.55\", \"Not)A;Brand\";v=\"24.0.0.0\"",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "x-root-field-name": "xdt_api__v1__clips__home__connection_v2",
+        "sec-ch-ua": "\"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+        "sec-ch-ua-model": "\"\"",
+        "sec-ch-ua-mobile": "?0",
+        "x-ig-app-id": "936619743392459",
+        "x-fb-lsd": "wUa-MqMRvdvmjVsWVCEOR9",
+        "content-type": "application/x-www-form-urlencoded",
+        "x-csrftoken": "qG4hXB0XE214DQIn6Tow05OAbQTbT5p9",
+        "referer": "https://www.instagram.com/reels/DZmp9PCpxYW/",
+        "accept-language": "en-US,en;q=0.9",
+        "x-ig-max-touch-points": "0",
+        "x-fb-friendly-name": "PolarisClipsTabDesktopPaginationQuery",
+        "x-bloks-version-id": "9710744400aad993bd60d4784987ff111f0f5d8a9859069ba8ae7485ed483e3f",
+        "x-asbd-id": "359341",
+        "sec-ch-prefers-color-scheme": "light",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120 Safari/537.36",
+        "sec-ch-ua-platform-version": "\"10.0\""
+      }
+    }
+  },
+  {
+    "idKey": "663517162434379",
+    "title": "Paiya Love Bgm",
+    "audioType": "licensed_music",
+    "audioClusterId": "663517162434379",
+    "audioAssetId": null,
+    "musicCanonicalId": null,
+    "meta": {
+      "music_asset_info": {
+        "audio_cluster_id": "663517162434379",
+        "cover_artwork_thumbnail_uri": "https://scontent.fcok2-1.fna.fbcdn.net/v/t39.30808-6/425829226_90027416195268_3862211061549938475_n.jpg?stp=dst-jpg_s168x128_tt6&_nc_cat=1&ccb=1-7&_nc_sid=2f2557&_nc_ohc=8-Cew6mnS1sQ7kNvwGrrxzS&_nc_oc=AdpI0fYVWOmm1dcFkoEuvXO7cPQa3T__RC_cx4tG8wOrULMLX8pZd2hQqccoMLkaxBmgiI78ZTfcfMb7BXSnTRvl&_nc_ad=z-m&_nc_cid=1252&_nc_zt=23&_nc_ht=scontent.fcok2-1.fna&_nc_gid=qn9OUVeNoXd5rL4QbHB_Xw&_nc_ss=7b20f&oh=00_AQDAsTYPoaLT5N8xXqd6TgfOYrQ1WVky1xCPNFftWGwLgQ&oe=6A4C02A6",
+        "title": "Paiya Love Bgm",
+        "display_artist": "Kalaivananoffl",
+        "is_explicit": false
+      },
+      "clips_metadata": {
+        "is_shared_to_fb": false,
+        "music_info": {
+          "music_asset_info": {
+            "audio_cluster_id": "663517162434379",
+            "cover_artwork_thumbnail_uri": "https://scontent.fcok2-1.fna.fbcdn.net/v/t39.30808-6/425829226_90027416195268_3862211061549938475_n.jpg?stp=dst-jpg_s168x128_tt6&_nc_cat=1&ccb=1-7&_nc_sid=2f2557&_nc_ohc=8-Cew6mnS1sQ7kNvwGrrxzS&_nc_oc=AdpI0fYVWOmm1dcFkoEuvXO7cPQa3T__RC_cx4tG8wOrULMLX8pZd2hQqccoMLkaxBmgiI78ZTfcfMb7BXSnTRvl&_nc_ad=z-m&_nc_cid=1252&_nc_zt=23&_nc_ht=scontent.fcok2-1.fna&_nc_gid=qn9OUVeNoXd5rL4QbHB_Xw&_nc_ss=7b20f&oh=00_AQDAsTYPoaLT5N8xXqd6TgfOYrQ1WVky1xCPNFftWGwLgQ&oe=6A4C02A6",
+            "title": "Paiya Love Bgm",
+            "display_artist": "Kalaivananoffl",
+            "is_explicit": false
+          },
+          "music_consumption_info": {
+            "should_mute_audio": false,
+            "is_trending_in_clips": false,
+            "audio_filter_infos": []
+          }
+        },
+        "original_sound_info": null
+      }
+    },
+    "discoveredAt": 1782979634734,
+    "requestInfo": {
+      "url": "https://www.instagram.com/graphql/query",
+      "method": "POST",
+      "postData": "av=17841447521026029&__d=www&__user=0&__a=1&__req=a&__hs=20636.HYP%3Ainstagram_web_pkg.2.1...0&dpr=1&__ccg=GOOD&__rev=1042508450&__s=ljs5m4%3A99hnkp%3Agjaaqj&__hsi=7657839170307525145&__dyn=7xeUjG1mxu1syUbFp41twpUnwgU7SbzEdF8aUco2qwJxS0k24o0B-q1ew6ywaq0yE462mcw5Mx62G5UswoEcE7O2l0Fwqo5W1yw9O1lwlE-U2zxe2GewGw9a361qw8Xxm16wa-0oa2-azo7u3C2u2J0bS1LyUaUbGwmk0zU8oC1Iwqo5p389oed6goK10xKi2K7E5y4U158KmUhw5nyEcE4y16wAwj83KwRzk&__csr=gigX3cfMNtOhLSx9fYiB95Gy_lWfYycWV9fy7VaJlF4F9kZ49WXcHh4ydqyvivCJe9iAyEsKFGUkAj-DB8BhZlydflHimW8ycCkJ8zQJsCnlTqRTi4uj8Flx9vC9h4lJGQ5uFEKbV2aqGV8aubDG4umVokK5E9oCmimdxYyyK68W9zZdyVAaGu-gFpV4FHF0xy99oV4G7RDxS9zEkGnyojzESHDG12KZ6zo98y9x-0HU7Wm01W7w0M3w0bXfw27oe85S07yUoUYE3kU19U56dAws80U4E3iw19UwcE2QwMixh1rc0UE7fo9U460aUa0cGy8x5ysw6B0jp2OwcO0zS4FRg0imDg129804Au07zE0T60z80PJw&__hsdp=g8Q2Ikdh-kxi5GxoCSBimiHmEvJ8HyA_zAmcxp1GoPwwFxm4yq825xm8m14g88uB80yo2ZoK-2KdwZwsFE2YzohyUfo7W1swMwGgbEixS3e1gwAwwxe7Ey16g5a3OawrQ3aq0bhwg81WoO08Aw1ih03HU1k81bEa80Mi5819UaK08mBw3U820w4cCgCm8wmU0zS2i5o&__hblp=4wg87S1cxO3DzUiK9y87V0DRyoKpyqxm5WwjE451K1YwnErjUvCAz42O48twZxqq2C1eCxy2emu4oK8AwKgS4o5W1sx67Eyfx1wKxaaghwKAyE4m2i224UK4Ey16gswRwYyA361MCBU6K0pi2i0EUfqwjE1CEO0qO1TwbW04pk0FU5Pw2G82Fw9Wu0zo22xS2y22cw2REkw4Dxu4K3C3y0qem0cCwuofU4S6UmxO0Fo4Cp2pox0mE3EwiU2pU6O2i5o&__sjsp=g8Q2l5B24jb4Vi58mGp22rql9paJqx-QyKajKegiwpC5ofS&__comet_req=7&fb_dtsg=NAfwnwMVSmUdDcV-piPdtbsvFCsWgMnsVe2JPrlZnNuUO3boOkyyLwg%3A17855905060073950%3A1782876067&jazoest=26711&lsd=wUa-MqMRvdvmjVsWVCEOR9&__spin_r=1042508450&__spin_b=trunk&__spin_t=1782979623&__crn=comet.igweb.PolarisClipsTabDesktopProfiledContentRoute&fb_api_caller_class=RelayModern&fb_api_req_friendly_name=PolarisClipsTabDesktopPaginationQuery&server_timestamps=true&variables=%7B%22after%22%3A%22GibOl6abnZ6l9mys2Liq-PTT5mwmhuXvneRnFAQ0AikIGAAaCBgNczoxOWYyMWRkZjk0MxQBGgYZDAA%3D%22%2C%22before%22%3Anull%2C%22data%22%3A%7B%22container_module%22%3A%22clips_tab_desktop_page%22%2C%22seen_reels%22%3A%22%5B%7B%5C%22id%5C%22%3A%5C%223920005053618263574%5C%22%7D%5D%22%7D%2C%22first%22%3A10%2C%22last%22%3Anull%2C%22__relay_internal__pv__PolarisReelsRecoDebugOverlayEnabledrelayprovider%22%3Afalse%2C%22__relay_internal__pv__PolarisAIGMMediaWebLabelEnabledrelayprovider%22%3Afalse%7D&doc_id=36825039943776829",
+      "headers": {
+        "sec-ch-ua-full-version-list": "\"Chromium\";v=\"149.0.7827.55\", \"Not)A;Brand\";v=\"24.0.0.0\"",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "x-root-field-name": "xdt_api__v1__clips__home__connection_v2",
+        "sec-ch-ua": "\"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+        "sec-ch-ua-model": "\"\"",
+        "sec-ch-ua-mobile": "?0",
+        "x-ig-app-id": "936619743392459",
+        "x-fb-lsd": "wUa-MqMRvdvmjVsWVCEOR9",
+        "content-type": "application/x-www-form-urlencoded",
+        "x-csrftoken": "qG4hXB0XE214DQIn6Tow05OAbQTbT5p9",
+        "referer": "https://www.instagram.com/reels/DZmp9PCpxYW/",
+        "accept-language": "en-US,en;q=0.9",
+        "x-ig-max-touch-points": "0",
+        "x-fb-friendly-name": "PolarisClipsTabDesktopPaginationQuery",
+        "x-bloks-version-id": "9710744400aad993bd60d4784987ff111f0f5d8a9859069ba8ae7485ed483e3f",
+        "x-asbd-id": "359341",
+        "sec-ch-prefers-color-scheme": "light",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120 Safari/537.36",
+        "sec-ch-ua-platform-version": "\"10.0\""
+      }
+    }
+  },
+  {
+    "idKey": "959595423618754",
+    "title": "Raga of Revenge (From \"DC\")",
+    "audioType": "licensed_music",
+    "audioClusterId": "959595423618754",
+    "audioAssetId": null,
+    "musicCanonicalId": null,
+    "meta": {
+      "music_asset_info": {
+        "audio_cluster_id": "959595423618754",
+        "cover_artwork_thumbnail_uri": "https://scontent.fcok2-1.fna.fbcdn.net/v/t39.30808-6/701557897_71061011859793_4468168854044992226_n.jpg?stp=dst-jpg_s168x128_tt6&_nc_cat=1&ccb=1-7&_nc_sid=2f2557&_nc_ohc=zz361QsMUFoQ7kNvwFIluzK&_nc_oc=AdpPkno08DqpmfizeQN5O6GZ3S45QVnpcvBUf3FaYrJWNxbhHwGXVn3Kx_ISYqtDbzlAgLAHosHGJopf0RzOTz3P&_nc_ad=z-m&_nc_cid=1252&_nc_zt=23&_nc_ht=scontent.fcok2-1.fna&_nc_gid=qn9OUVeNoXd5rL4QbHB_Xw&_nc_ss=7b20f&oh=00_AQDx-6LIwceldg2bhba6bLSt_8Li_ScIAmCFBjGw-LiOHw&oe=6A4BFBBA",
+        "title": "Raga of Revenge (From \"DC\")",
+        "display_artist": "Anirudh Ravichander",
+        "is_explicit": false
+      },
+      "clips_metadata": {
+        "is_shared_to_fb": false,
+        "music_info": {
+          "music_asset_info": {
+            "audio_cluster_id": "959595423618754",
+            "cover_artwork_thumbnail_uri": "https://scontent.fcok2-1.fna.fbcdn.net/v/t39.30808-6/701557897_71061011859793_4468168854044992226_n.jpg?stp=dst-jpg_s168x128_tt6&_nc_cat=1&ccb=1-7&_nc_sid=2f2557&_nc_ohc=zz361QsMUFoQ7kNvwFIluzK&_nc_oc=AdpPkno08DqpmfizeQN5O6GZ3S45QVnpcvBUf3FaYrJWNxbhHwGXVn3Kx_ISYqtDbzlAgLAHosHGJopf0RzOTz3P&_nc_ad=z-m&_nc_cid=1252&_nc_zt=23&_nc_ht=scontent.fcok2-1.fna&_nc_gid=qn9OUVeNoXd5rL4QbHB_Xw&_nc_ss=7b20f&oh=00_AQDx-6LIwceldg2bhba6bLSt_8Li_ScIAmCFBjGw-LiOHw&oe=6A4BFBBA",
+            "title": "Raga of Revenge (From \"DC\")",
+            "display_artist": "Anirudh Ravichander",
+            "is_explicit": false
+          },
+          "music_consumption_info": {
+            "should_mute_audio": false,
+            "is_trending_in_clips": false,
+            "audio_filter_infos": []
+          }
+        },
+        "original_sound_info": null
+      }
+    },
+    "discoveredAt": 1782979634734,
+    "requestInfo": {
+      "url": "https://www.instagram.com/graphql/query",
+      "method": "POST",
+      "postData": "av=17841447521026029&__d=www&__user=0&__a=1&__req=a&__hs=20636.HYP%3Ainstagram_web_pkg.2.1...0&dpr=1&__ccg=GOOD&__rev=1042508450&__s=ljs5m4%3A99hnkp%3Agjaaqj&__hsi=7657839170307525145&__dyn=7xeUjG1mxu1syUbFp41twpUnwgU7SbzEdF8aUco2qwJxS0k24o0B-q1ew6ywaq0yE462mcw5Mx62G5UswoEcE7O2l0Fwqo5W1yw9O1lwlE-U2zxe2GewGw9a361qw8Xxm16wa-0oa2-azo7u3C2u2J0bS1LyUaUbGwmk0zU8oC1Iwqo5p389oed6goK10xKi2K7E5y4U158KmUhw5nyEcE4y16wAwj83KwRzk&__csr=gigX3cfMNtOhLSx9fYiB95Gy_lWfYycWV9fy7VaJlF4F9kZ49WXcHh4ydqyvivCJe9iAyEsKFGUkAj-DB8BhZlydflHimW8ycCkJ8zQJsCnlTqRTi4uj8Flx9vC9h4lJGQ5uFEKbV2aqGV8aubDG4umVokK5E9oCmimdxYyyK68W9zZdyVAaGu-gFpV4FHF0xy99oV4G7RDxS9zEkGnyojzESHDG12KZ6zo98y9x-0HU7Wm01W7w0M3w0bXfw27oe85S07yUoUYE3kU19U56dAws80U4E3iw19UwcE2QwMixh1rc0UE7fo9U460aUa0cGy8x5ysw6B0jp2OwcO0zS4FRg0imDg129804Au07zE0T60z80PJw&__hsdp=g8Q2Ikdh-kxi5GxoCSBimiHmEvJ8HyA_zAmcxp1GoPwwFxm4yq825xm8m14g88uB80yo2ZoK-2KdwZwsFE2YzohyUfo7W1swMwGgbEixS3e1gwAwwxe7Ey16g5a3OawrQ3aq0bhwg81WoO08Aw1ih03HU1k81bEa80Mi5819UaK08mBw3U820w4cCgCm8wmU0zS2i5o&__hblp=4wg87S1cxO3DzUiK9y87V0DRyoKpyqxm5WwjE451K1YwnErjUvCAz42O48twZxqq2C1eCxy2emu4oK8AwKgS4o5W1sx67Eyfx1wKxaaghwKAyE4m2i224UK4Ey16gswRwYyA361MCBU6K0pi2i0EUfqwjE1CEO0qO1TwbW04pk0FU5Pw2G82Fw9Wu0zo22xS2y22cw2REkw4Dxu4K3C3y0qem0cCwuofU4S6UmxO0Fo4Cp2pox0mE3EwiU2pU6O2i5o&__sjsp=g8Q2l5B24jb4Vi58mGp22rql9paJqx-QyKajKegiwpC5ofS&__comet_req=7&fb_dtsg=NAfwnwMVSmUdDcV-piPdtbsvFCsWgMnsVe2JPrlZnNuUO3boOkyyLwg%3A17855905060073950%3A1782876067&jazoest=26711&lsd=wUa-MqMRvdvmjVsWVCEOR9&__spin_r=1042508450&__spin_b=trunk&__spin_t=1782979623&__crn=comet.igweb.PolarisClipsTabDesktopProfiledContentRoute&fb_api_caller_class=RelayModern&fb_api_req_friendly_name=PolarisClipsTabDesktopPaginationQuery&server_timestamps=true&variables=%7B%22after%22%3A%22GibOl6abnZ6l9mys2Liq-PTT5mwmhuXvneRnFAQ0AikIGAAaCBgNczoxOWYyMWRkZjk0MxQBGgYZDAA%3D%22%2C%22before%22%3Anull%2C%22data%22%3A%7B%22container_module%22%3A%22clips_tab_desktop_page%22%2C%22seen_reels%22%3A%22%5B%7B%5C%22id%5C%22%3A%5C%223920005053618263574%5C%22%7D%5D%22%7D%2C%22first%22%3A10%2C%22last%22%3Anull%2C%22__relay_internal__pv__PolarisReelsRecoDebugOverlayEnabledrelayprovider%22%3Afalse%2C%22__relay_internal__pv__PolarisAIGMMediaWebLabelEnabledrelayprovider%22%3Afalse%7D&doc_id=36825039943776829",
+      "headers": {
+        "sec-ch-ua-full-version-list": "\"Chromium\";v=\"149.0.7827.55\", \"Not)A;Brand\";v=\"24.0.0.0\"",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "x-root-field-name": "xdt_api__v1__clips__home__connection_v2",
+        "sec-ch-ua": "\"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+        "sec-ch-ua-model": "\"\"",
+        "sec-ch-ua-mobile": "?0",
+        "x-ig-app-id": "936619743392459",
+        "x-fb-lsd": "wUa-MqMRvdvmjVsWVCEOR9",
+        "content-type": "application/x-www-form-urlencoded",
+        "x-csrftoken": "qG4hXB0XE214DQIn6Tow05OAbQTbT5p9",
+        "referer": "https://www.instagram.com/reels/DZmp9PCpxYW/",
+        "accept-language": "en-US,en;q=0.9",
+        "x-ig-max-touch-points": "0",
+        "x-fb-friendly-name": "PolarisClipsTabDesktopPaginationQuery",
+        "x-bloks-version-id": "9710744400aad993bd60d4784987ff111f0f5d8a9859069ba8ae7485ed483e3f",
+        "x-asbd-id": "359341",
+        "sec-ch-prefers-color-scheme": "light",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120 Safari/537.36",
+        "sec-ch-ua-platform-version": "\"10.0\""
+      }
+    }
+  },
+  {
+    "idKey": "27973783702222972",
+    "title": "Original audio",
+    "audioType": "original_sound",
+    "audioClusterId": null,
+    "audioAssetId": "27973783702222972",
+    "musicCanonicalId": null,
+    "meta": {
+      "original_sound_info": {
+        "audio_asset_id": "27973783702222972",
+        "ig_artist": {
+          "profile_pic_url": "https://instagram.fcok2-1.fna.fbcdn.net/v/t51.82787-19/713263325_18100738591892134_2285857573573529819_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fcok2-1.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2gHWSicVSDYdGS5NBRbIE-S02XlxamqLhcEBD_gxPrxFtURLgTYtAliARDEDn6WbnjtaIzzAz8evpHDmPd-c-jxA&_nc_ohc=yViDZXVxF28Q7kNvwFkK_Uh&_nc_gid=qn9OUVeNoXd5rL4QbHB_Xw&edm=AELP8isBAAAA&ccb=7-5&oh=00_AQC1wt8VPFGGIkQ8znoqdIAGdpQVXQI7LnlkPgDgmkmieA&oe=6A4BF9EE&_nc_sid=606eca",
+          "id": "26755132133",
+          "username": "logindios.fc"
+        },
+        "consumption_info": {
+          "should_mute_audio_reason_type": null,
+          "is_trending_in_clips": false
+        },
+        "original_audio_title": "Original audio",
+        "is_explicit": false,
+        "audio_filter_infos": null
+      },
+      "clips_metadata": {
+        "is_shared_to_fb": false,
+        "music_info": null,
+        "original_sound_info": {
+          "audio_asset_id": "27973783702222972",
+          "ig_artist": {
+            "profile_pic_url": "https://instagram.fcok2-1.fna.fbcdn.net/v/t51.82787-19/713263325_18100738591892134_2285857573573529819_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fcok2-1.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2gHWSicVSDYdGS5NBRbIE-S02XlxamqLhcEBD_gxPrxFtURLgTYtAliARDEDn6WbnjtaIzzAz8evpHDmPd-c-jxA&_nc_ohc=yViDZXVxF28Q7kNvwFkK_Uh&_nc_gid=qn9OUVeNoXd5rL4QbHB_Xw&edm=AELP8isBAAAA&ccb=7-5&oh=00_AQC1wt8VPFGGIkQ8znoqdIAGdpQVXQI7LnlkPgDgmkmieA&oe=6A4BF9EE&_nc_sid=606eca",
+            "id": "26755132133",
+            "username": "logindios.fc"
+          },
+          "consumption_info": {
+            "should_mute_audio_reason_type": null,
+            "is_trending_in_clips": false
+          },
+          "original_audio_title": "Original audio",
+          "is_explicit": false,
+          "audio_filter_infos": null
+        }
+      }
+    },
+    "discoveredAt": 1782979634734,
+    "requestInfo": {
+      "url": "https://www.instagram.com/graphql/query",
+      "method": "POST",
+      "postData": "av=17841447521026029&__d=www&__user=0&__a=1&__req=a&__hs=20636.HYP%3Ainstagram_web_pkg.2.1...0&dpr=1&__ccg=GOOD&__rev=1042508450&__s=ljs5m4%3A99hnkp%3Agjaaqj&__hsi=7657839170307525145&__dyn=7xeUjG1mxu1syUbFp41twpUnwgU7SbzEdF8aUco2qwJxS0k24o0B-q1ew6ywaq0yE462mcw5Mx62G5UswoEcE7O2l0Fwqo5W1yw9O1lwlE-U2zxe2GewGw9a361qw8Xxm16wa-0oa2-azo7u3C2u2J0bS1LyUaUbGwmk0zU8oC1Iwqo5p389oed6goK10xKi2K7E5y4U158KmUhw5nyEcE4y16wAwj83KwRzk&__csr=gigX3cfMNtOhLSx9fYiB95Gy_lWfYycWV9fy7VaJlF4F9kZ49WXcHh4ydqyvivCJe9iAyEsKFGUkAj-DB8BhZlydflHimW8ycCkJ8zQJsCnlTqRTi4uj8Flx9vC9h4lJGQ5uFEKbV2aqGV8aubDG4umVokK5E9oCmimdxYyyK68W9zZdyVAaGu-gFpV4FHF0xy99oV4G7RDxS9zEkGnyojzESHDG12KZ6zo98y9x-0HU7Wm01W7w0M3w0bXfw27oe85S07yUoUYE3kU19U56dAws80U4E3iw19UwcE2QwMixh1rc0UE7fo9U460aUa0cGy8x5ysw6B0jp2OwcO0zS4FRg0imDg129804Au07zE0T60z80PJw&__hsdp=g8Q2Ikdh-kxi5GxoCSBimiHmEvJ8HyA_zAmcxp1GoPwwFxm4yq825xm8m14g88uB80yo2ZoK-2KdwZwsFE2YzohyUfo7W1swMwGgbEixS3e1gwAwwxe7Ey16g5a3OawrQ3aq0bhwg81WoO08Aw1ih03HU1k81bEa80Mi5819UaK08mBw3U820w4cCgCm8wmU0zS2i5o&__hblp=4wg87S1cxO3DzUiK9y87V0DRyoKpyqxm5WwjE451K1YwnErjUvCAz42O48twZxqq2C1eCxy2emu4oK8AwKgS4o5W1sx67Eyfx1wKxaaghwKAyE4m2i224UK4Ey16gswRwYyA361MCBU6K0pi2i0EUfqwjE1CEO0qO1TwbW04pk0FU5Pw2G82Fw9Wu0zo22xS2y22cw2REkw4Dxu4K3C3y0qem0cCwuofU4S6UmxO0Fo4Cp2pox0mE3EwiU2pU6O2i5o&__sjsp=g8Q2l5B24jb4Vi58mGp22rql9paJqx-QyKajKegiwpC5ofS&__comet_req=7&fb_dtsg=NAfwnwMVSmUdDcV-piPdtbsvFCsWgMnsVe2JPrlZnNuUO3boOkyyLwg%3A17855905060073950%3A1782876067&jazoest=26711&lsd=wUa-MqMRvdvmjVsWVCEOR9&__spin_r=1042508450&__spin_b=trunk&__spin_t=1782979623&__crn=comet.igweb.PolarisClipsTabDesktopProfiledContentRoute&fb_api_caller_class=RelayModern&fb_api_req_friendly_name=PolarisClipsTabDesktopPaginationQuery&server_timestamps=true&variables=%7B%22after%22%3A%22GibOl6abnZ6l9mys2Liq-PTT5mwmhuXvneRnFAQ0AikIGAAaCBgNczoxOWYyMWRkZjk0MxQBGgYZDAA%3D%22%2C%22before%22%3Anull%2C%22data%22%3A%7B%22container_module%22%3A%22clips_tab_desktop_page%22%2C%22seen_reels%22%3A%22%5B%7B%5C%22id%5C%22%3A%5C%223920005053618263574%5C%22%7D%5D%22%7D%2C%22first%22%3A10%2C%22last%22%3Anull%2C%22__relay_internal__pv__PolarisReelsRecoDebugOverlayEnabledrelayprovider%22%3Afalse%2C%22__relay_internal__pv__PolarisAIGMMediaWebLabelEnabledrelayprovider%22%3Afalse%7D&doc_id=36825039943776829",
+      "headers": {
+        "sec-ch-ua-full-version-list": "\"Chromium\";v=\"149.0.7827.55\", \"Not)A;Brand\";v=\"24.0.0.0\"",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "x-root-field-name": "xdt_api__v1__clips__home__connection_v2",
+        "sec-ch-ua": "\"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+        "sec-ch-ua-model": "\"\"",
+        "sec-ch-ua-mobile": "?0",
+        "x-ig-app-id": "936619743392459",
+        "x-fb-lsd": "wUa-MqMRvdvmjVsWVCEOR9",
+        "content-type": "application/x-www-form-urlencoded",
+        "x-csrftoken": "qG4hXB0XE214DQIn6Tow05OAbQTbT5p9",
+        "referer": "https://www.instagram.com/reels/DZmp9PCpxYW/",
+        "accept-language": "en-US,en;q=0.9",
+        "x-ig-max-touch-points": "0",
+        "x-fb-friendly-name": "PolarisClipsTabDesktopPaginationQuery",
+        "x-bloks-version-id": "9710744400aad993bd60d4784987ff111f0f5d8a9859069ba8ae7485ed483e3f",
+        "x-asbd-id": "359341",
+        "sec-ch-prefers-color-scheme": "light",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120 Safari/537.36",
+        "sec-ch-ua-platform-version": "\"10.0\""
+      }
+    }
+  }
+]
